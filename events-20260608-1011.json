@@ -1,0 +1,917 @@
+{
+  "generated": "20260608-1011",
+  "total_events": 319,
+  "bucketed": {
+    "Iran / 海湾": [
+      {
+        "source": "AP World",
+        "title": "Israel says Iran launched missiles at it in first such bombardment since fragile ceasefire",
+        "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-28d80744e192ae0d5cce73a5a08af906"
+      },
+      {
+        "source": "AP World",
+        "title": "Trump dismisses idea that Iran betrays his 'no new wars' campaign message",
+        "url": "https://apnews.com/article/trump-iran-war-settlement-fund-california-election-a0517d4d0f0d38abd8d403b42ef5da0e"
+      },
+      {
+        "source": "AP World",
+        "title": "A timeline of the escalating tensions between Iran and Israel over Lebanon",
+        "url": "https://apnews.com/article/iran-israel-hezbollah-ceasefire-timeline-war-trump-f24c01d8b0cbc90b00fe90a79dbdaa1e"
+      },
+      {
+        "source": "AP World",
+        "title": "Israel strikes Beirut’s southern suburbs days after US-supported ceasefire deal",
+        "url": "https://apnews.com/video/israel-strikes-beiruts-southern-suburbs-days-after-us-supported-ceasefire-deal-be414d98b0da499f95921f95d62bea4b"
+      },
+      {
+        "source": "AP World",
+        "title": "Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal",
+        "url": "https://apnews.com/article/lebanon-israel-hezbollah-airstrike-soldiers-killed-iran-6150614827e9f932807527799b50f5d0"
+      },
+      {
+        "source": "AP World",
+        "title": "UN food agency says millions are being pushed into hunger by Iran war",
+        "url": "https://apnews.com/article/un-food-hunger-iran-mideast-somalia-afghanistan-ac6e40407199fec6ce12ee0812cd7a87"
+      },
+      {
+        "source": "AP World",
+        "title": "US military says it shot down Iranian missiles, drones launched toward Gulf allies, Strait of Hormuz",
+        "url": "https://apnews.com/article/iran-war-hormuz-drones-a9495a8e67035b8596a3739c8cde0978"
+      },
+      {
+        "source": "AP Politics",
+        "title": "Trump dismisses idea that Iran betrays his ‘no new wars’ campaign message",
+        "url": "https://apnews.com/article/trump-iran-war-settlement-fund-california-election-a0517d4d0f0d38abd8d403b42ef5da0e"
+      },
+      {
+        "source": "AP Politics",
+        "title": "Trump says war with Iran will end ‘one way or the other’ after criticizing Democrats",
+        "url": "https://apnews.com/video/trump-says-war-with-iran-will-end-one-way-or-the-other-after-criticizing-democrats-59672a66a852466f8e66ff32d16d2cf0"
+      },
+      {
+        "source": "France 24",
+        "title": "Iran rejects US deal without firm guarantees as Washington warns war could resume",
+        "url": "https://www.france24.com/en/middle-east/20260531-iran-rejects-us-deal-without-full-guarantees-us-warns-it-can-resume-war"
+      },
+      {
+        "source": "France 24",
+        "title": "Iran rejects reports President Masoud Pezeshkian resigned over power struggle",
+        "url": "https://www.france24.com/en/iran-rejects-reports-president-masoud-pezeshkian-resigned-over-power-struggle"
+      },
+      {
+        "source": "NYT World",
+        "title": "Iran Fires Missiles at Israel for First Time Since April Cease-Fire",
+        "url": "https://www.nytimes.com/2026/06/07/world/middleeast/iran-israel-missiles.html"
+      },
+      {
+        "source": "NYT World",
+        "title": "Trump Says Iran Has Made a ‘Big’ Nuclear Promise. It Isn’t New.",
+        "url": "https://www.nytimes.com/2026/06/07/us/politics/trump-iran-nuclear-promise.html"
+      }
+    ],
+    "以色列 / 加沙 / 黎巴嫩": [
+      {
+        "source": "AP World",
+        "title": "Israel says Iran launched missiles at it in first such bombardment since fragile ceasefire",
+        "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-28d80744e192ae0d5cce73a5a08af906"
+      },
+      {
+        "source": "AP World",
+        "title": "Arab attacker opens fire in central Israel, killing 1 and wounding 5",
+        "url": "https://apnews.com/article/israel-palestinians-west-bank-shooting-217b7d7ef034c99b091e01462357f296"
+      },
+      {
+        "source": "AP World",
+        "title": "A timeline of the escalating tensions between Iran and Israel over Lebanon",
+        "url": "https://apnews.com/article/iran-israel-hezbollah-ceasefire-timeline-war-trump-f24c01d8b0cbc90b00fe90a79dbdaa1e"
+      },
+      {
+        "source": "AP World",
+        "title": "Palestinians suffer from lack of proper toilets across Gaza’s vast tent cities",
+        "url": "https://apnews.com/article/mideast-wars-gaza-toilet-tent-khan-younis-3d40ef89f092351ee385365e6b0db1d8"
+      },
+      {
+        "source": "AP World",
+        "title": "Israel strikes Beirut’s southern suburbs days after US-supported ceasefire deal",
+        "url": "https://apnews.com/video/israel-strikes-beiruts-southern-suburbs-days-after-us-supported-ceasefire-deal-be414d98b0da499f95921f95d62bea4b"
+      },
+      {
+        "source": "AP World",
+        "title": "Greek police arrest a Palestinian man on suspicion of planning attacks",
+        "url": "https://apnews.com/article/greece-palestinian-arrest-hamas-terrorism-d1cf35b0268602b56d3be5ba31478a56"
+      },
+      {
+        "source": "AP World",
+        "title": "Israeli troops kill 7-month-old baby in West Bank, Palestinian officials say",
+        "url": "https://apnews.com/article/mideast-wars-west-bank-infant-killed-b398e9dc08d024870459c400e9fe7d16"
+      },
+      {
+        "source": "AP World",
+        "title": "Lebanon considers its largest amnesty in 35 years but some are protesting",
+        "url": "https://apnews.com/article/lebanon-amnesty-draft-law-israel-hezbollah-79cd7e750251a333a9537c568b353f01"
+      },
+      {
+        "source": "AP World",
+        "title": "Lebanon inaugurates René Mouawad Airport as its second international airport",
+        "url": "https://apnews.com/article/lebanon-syria-rene-mouawad-airport-598400a24ab62d1f15e05f1d0e5621cf"
+      },
+      {
+        "source": "France 24",
+        "title": "US says Israel and Hezbollah agree to dial back fighting as tensions escalate",
+        "url": "https://www.france24.com/en/middle-east/20260602-us-says-israel-and-hezbollah-agree-to-dial-back-fighting-as-tensions-escalate"
+      },
+      {
+        "source": "France 24",
+        "title": "'Posing for cameras': Israel mocks flotilla activists online as torture, rape allegations mount",
+        "url": "https://www.france24.com/en/posing-for-cameras-israel-mocks-flotilla-activists-online-as-torture-rape-allegations-mount"
+      },
+      {
+        "source": "France 24",
+        "title": "War in Lebanon: Cultural heritage at risk",
+        "url": "https://www.france24.com/en/tv-shows/the-observers/20260529-war-in-lebanon-cultural-heritage-at-risk"
+      },
+      {
+        "source": "France 24",
+        "title": "Saved from destruction: Paris show offers glimpse of Gaza’s archaeological treasures",
+        "url": "https://www.france24.com/en/culture/20250403-saved-from-destruction-paris-exhibition-offers-glimpse-of-gaza-archaeological-treasures \"Saved from destruction: Paris show offers glimpse of Gaza’s archaeological treasures\""
+      },
+      {
+        "source": "France 24",
+        "title": "'Healthy consensus in Israel' on pursuing Lebanon campaign, expert says",
+        "url": "https://www.france24.com/en/tv-shows/a-propos/20260601-healthy-consensus-in-israel-on-pursuing-lebanon-campaign-expert-says"
+      },
+      {
+        "source": "NYT World",
+        "title": "Iran Fires Missiles at Israel for First Time Since April Cease-Fire",
+        "url": "https://www.nytimes.com/2026/06/07/world/middleeast/iran-israel-missiles.html"
+      }
+    ],
+    "美国政治 / 移民 / ICE": [
+      {
+        "source": "AP World",
+        "title": "What to know about the ongoing protests and arrests outside a New Jersey detention center",
+        "url": "https://apnews.com/article/immigration-detention-geo-group-protests-delaney-hall-56b7adb202aa59b1b0e0121fba2df755"
+      },
+      {
+        "source": "AP World",
+        "title": "Lawsuit seeks to stop the UFC fight on the White House South Lawn for Trump's birthday",
+        "url": "https://apnews.com/article/white-house-ufc-fight-lawsuit-trump-birthday-da95554d7137ca297dd47951a3b95cc8"
+      },
+      {
+        "source": "AP World",
+        "title": "Trump dismisses idea that Iran betrays his 'no new wars' campaign message",
+        "url": "https://apnews.com/article/trump-iran-war-settlement-fund-california-election-a0517d4d0f0d38abd8d403b42ef5da0e"
+      },
+      {
+        "source": "AP World",
+        "title": "First came Congress. Now a national redistricting battle may turn to statehouses and city councils",
+        "url": "https://apnews.com/article/redistricting-gerrymander-voting-rights-states-4825367f3b1e8fc1c7e7a9dad070837a"
+      },
+      {
+        "source": "AP World",
+        "title": "Donald Trump, Knicks fan, heads back to New York to root on his team",
+        "url": "https://apnews.com/article/trump-knicks-nba-finals-new-york-b367a391f419c4ff862ac16b95de8dc3"
+      },
+      {
+        "source": "AP World",
+        "title": "No bags, no watch parties at Madison Square Garden with Trump attending Game 3 of the NBA Finals",
+        "url": "https://apnews.com/article/nba-finals-trump-knicks-security-249fcd4e50d3bfa064dabd11246feda3"
+      },
+      {
+        "source": "AP World",
+        "title": "Scientists lose critical climate record as ocean observatory will go dark under Trump funding cuts",
+        "url": "https://apnews.com/article/climate-oceans-data-trump-science-a9539443dfaa32b3a67468a25f8b2674"
+      },
+      {
+        "source": "AP World",
+        "title": "Trump asegura que Irán no traiciona su mensaje de campaña de \"no más guerras\"",
+        "url": "https://apnews.com/article/trump-iran-nbc-94c51ca388723a66be55bf32bd33391b"
+      },
+      {
+        "source": "AP World",
+        "title": "Donald Trump, Bernie Sanders and Sam Altman are all talking about public ownership in AI",
+        "url": "https://apnews.com/article/sam-altman-ai-bernie-sanders-trump-public-ownership-772224f9cd138eb79d3ef3336858a5d5"
+      },
+      {
+        "source": "AP US",
+        "title": "Trump says he’s going to NBA Finals to root for the Knicks",
+        "url": "https://apnews.com/video/trump-says-hes-going-to-nba-finals-to-root-for-the-knicks-0f1252ad69ea4e8f81eafcc722af8d4f"
+      },
+      {
+        "source": "AP US",
+        "title": "What to know about the ongoing protests and arrests outside a New Jersey detention center",
+        "url": "https://apnews.com/article/immigration-detention-geo-group-protests-delaney-hall-56b7adb202aa59b1b0e0121fba2df755"
+      },
+      {
+        "source": "AP US",
+        "title": "No bags, no watch parties at Madison Square Garden with Trump attending Game 3 of the NBA Finals",
+        "url": "https://apnews.com/article/nba-finals-trump-knicks-security-249fcd4e50d3bfa064dabd11246feda3"
+      },
+      {
+        "source": "AP US",
+        "title": "Trump says he wants his new acting director of national intelligence to cut the office",
+        "url": "https://apnews.com/article/trump-pulte-national-intelligence-139516a3597c26d4afcf0b12bee1022f"
+      },
+      {
+        "source": "AP Politics",
+        "title": "Trump dismisses idea that Iran betrays his ‘no new wars’ campaign message",
+        "url": "https://apnews.com/article/trump-iran-war-settlement-fund-california-election-a0517d4d0f0d38abd8d403b42ef5da0e"
+      },
+      {
+        "source": "AP Politics",
+        "title": "Donald Trump, Knicks fan, heads back to New York to root on his team",
+        "url": "https://apnews.com/article/trump-knicks-nba-finals-new-york-b367a391f419c4ff862ac16b95de8dc3"
+      },
+      {
+        "source": "AP Politics",
+        "title": "Lawsuit seeks to stop the UFC fight on the White House South Lawn for Trump’s birthday",
+        "url": "https://apnews.com/article/white-house-ufc-fight-lawsuit-trump-birthday-da95554d7137ca297dd47951a3b95cc8"
+      },
+      {
+        "source": "AP Politics",
+        "title": "Trump says war with Iran will end ‘one way or the other’ after criticizing Democrats",
+        "url": "https://apnews.com/video/trump-says-war-with-iran-will-end-one-way-or-the-other-after-criticizing-democrats-59672a66a852466f8e66ff32d16d2cf0"
+      },
+      {
+        "source": "AP Politics",
+        "title": "Trump says he ‘wouldn’t mind’ slashing intelligence jobs",
+        "url": "https://apnews.com/video/trump-says-he-wouldnt-mind-slashing-intelligence-jobs-1c57fdf7c60a4ebe926178a3fc6f50d9"
+      },
+      {
+        "source": "AP Politics",
+        "title": "Trump says he’s going to NBA Finals to root for the Knicks",
+        "url": "https://apnews.com/video/trump-says-hes-going-to-nba-finals-to-root-for-the-knicks-0f1252ad69ea4e8f81eafcc722af8d4f"
+      },
+      {
+        "source": "AP Politics",
+        "title": "Why Texas’ redistricting plan isn’t a sure bet",
+        "url": "https://apnews.com/article/texas-us-house-midterms-election-redistricting-gerrymandering-e56d03c72b6cf7bbb321671e03a5c1bb"
+      },
+      {
+        "source": "AP Politics",
+        "title": "First came Congress. Now a national redistricting battle may turn to statehouses and city councils",
+        "url": "https://apnews.com/article/redistricting-gerrymander-voting-rights-states-4825367f3b1e8fc1c7e7a9dad070837a"
+      },
+      {
+        "source": "AP Politics",
+        "title": "What to know about the ongoing protests and arrests outside a New Jersey detention center",
+        "url": "https://apnews.com/article/immigration-detention-geo-group-protests-delaney-hall-56b7adb202aa59b1b0e0121fba2df755"
+      },
+      {
+        "source": "AP Politics",
+        "title": "Supreme Court gearing up for major decisions on key aspects of Trump’s agenda",
+        "url": "https://apnews.com/article/supreme-court-gearing-up-for-major-decisions-on-key-aspects-of-trumps-agenda-0000019e98f8dc07adbf9aff9be00000"
+      },
+      {
+        "source": "AP Politics",
+        "title": "Trump issues pardon to former Republican congressman convicted of insider trading",
+        "url": "https://apnews.com/article/buyer-trump-pardon-congressman-illegal-stock-trades-26f4698e76d333ae66e041be590e5f85"
+      },
+      {
+        "source": "AP Politics",
+        "title": "Donald Trump, Bernie Sanders and Sam Altman are all talking about public ownership in AI",
+        "url": "https://apnews.com/article/sam-altman-ai-bernie-sanders-trump-public-ownership-772224f9cd138eb79d3ef3336858a5d5"
+      },
+      {
+        "source": "AP Politics",
+        "title": "Judge halts Trump administration efforts to impose conditions on SNAP",
+        "url": "https://apnews.com/article/trump-administration-snap-593bd2f1c57e90ea3ee1c3e7f6d3f32b"
+      },
+      {
+        "source": "AP Politics",
+        "title": "Trump calls for military to accelerate use of AI while protecting Americans",
+        "url": "https://apnews.com/article/artificial-intelligence-ai-military-trump-weapons-1078e23edada2bc16db12dba109015c0"
+      },
+      {
+        "source": "AP Politics",
+        "title": "Court can’t stop Trump ballroom construction, government lawyer tells judge",
+        "url": "https://apnews.com/article/donald-trump-ballroom-east-wing-62098947a3e91daadadf0e3011b2ff01"
+      },
+      {
+        "source": "AP Politics",
+        "title": "Trump says he wants his new acting director of national intelligence to cut the office",
+        "url": "https://apnews.com/article/trump-pulte-national-intelligence-139516a3597c26d4afcf0b12bee1022f"
+      },
+      {
+        "source": "AP Politics",
+        "title": "Trump looms large over upcoming primary elections in Washington, DC",
+        "url": "https://apnews.com/article/washington-dc-primary-elections-bowser-norton-trump-ab71ebd644fa92fa8a9e1c906e8227bc"
+      },
+      {
+        "source": "AP Politics",
+        "title": "Senate blocks extending key surveillance program following backlash over Trump pick to lead intel",
+        "url": "https://apnews.com/article/fisa-republicans-block-trump-intel-e6525371304fad3cd664761b6108b2db"
+      },
+      {
+        "source": "AP Politics",
+        "title": "Nevada Republicans set to decide on Trump-backed vs. experienced replacement for Rep. Mark Amodei",
+        "url": "https://apnews.com/article/northern-nevada-congress-republican-primary-c78ca31dd309aca001bba3bb83566b65"
+      },
+      {
+        "source": "France 24",
+        "title": "Trump reconsiders $1.8 billion ally compensation fund amid Republican backlash",
+        "url": "https://www.france24.com/en/americas/20260601-trump-reconsiders-1-8-billion-ally-compensation-fund-amid-republican-backlash"
+      },
+      {
+        "source": "France 24",
+        "title": "Trump says Netanyahu agreed not to send Israeli troops to Beirut",
+        "url": "https://www.france24.com/en/middle-east/20260601-middle-east-live-us-pushes-lebanon-and-israel-on-new-ceasefire-plan-official-says"
+      },
+      {
+        "source": "France 24",
+        "title": "Who is Abelardo de la Espriella, the far‑right Trump fan who could lead Colombia?",
+        "url": "https://www.france24.com/en/americas/20260601-who-is-abelardo-de-la-espriella-the-far%E2%80%91right-trump-fan-who-could-lead-colombia"
+      },
+      {
+        "source": "France 24",
+        "title": "Why does Trump want to transfer Cold War-era plutonium to nuclear start-ups?",
+        "url": "https://www.france24.com/en/americas/20260530-why-does-trump-want-to-transfer-cold-war-era-plutonium-to-nuclear-start-ups"
+      },
+      {
+        "source": "France 24",
+        "title": "'Sleepy Donald'? Trump accused of dozing off at Memorial Day event, reigniting age concerns",
+        "url": "https://www.france24.com/en/sleepy-donald-trump-accused-of-dozing-off-at-memorial-day-event-reigniting-age-concerns-1"
+      },
+      {
+        "source": "France 24",
+        "title": "Pro-Trump candidate lead in Colombia 'part of Donroe doctrine' asserting itself in region",
+        "url": "https://www.france24.com/en/pro-trump-candidate-lead-in-colombia-part-of-donroe-doctrine-asserting-itself-in-region"
+      },
+      {
+        "source": "NYT World",
+        "title": "Trump Says Iran Has Made a ‘Big’ Nuclear Promise. It Isn’t New.",
+        "url": "https://www.nytimes.com/2026/06/07/us/politics/trump-iran-nuclear-promise.html"
+      },
+      {
+        "source": "Nikkei Asia",
+        "title": "Trump administration",
+        "url": "https://asia.nikkei.com/spotlight/trump-administration"
+      }
+    ],
+    "教皇 Leo / Spain": [
+      {
+        "source": "AP World",
+        "title": "Pope Leo XIV urges Spain to stop fanning flames of polarization on first papal visit in 15 years",
+        "url": "https://apnews.com/article/pope-spain-migration-sagrada-familia-650b269286ecf851ed51ebb0e7f5980c"
+      },
+      {
+        "source": "AP World",
+        "title": "Pope Leo XIV’s visit to mainland Spain and the Canary Islands, in photos",
+        "url": "https://apnews.com/photo-gallery/pope-leo-xiv-s-visit-mainland-spain-canary-islands-photos-2625a7639059485697c70e78c104e1a8"
+      },
+      {
+        "source": "AP World",
+        "title": "Pope Leo XIV acknowledges stiff competition with Bad Bunny in Spain and weighs in on soccer rivalry",
+        "url": "https://apnews.com/article/bad-bunny-pope-spain-catholic-church-fc7e50facea6a5e8c07038f1eee20a82"
+      },
+      {
+        "source": "AP World",
+        "title": "What to know about Pope Leo’s trip to Spain, from political scandal to Barcelona’s architectural gem",
+        "url": "https://apnews.com/article/pope-leo-spain-barcelona-madrid-migration-ai-8475f27be9a3199e28fb8412228b1212"
+      },
+      {
+        "source": "AP US",
+        "title": "Illinois treasurer’s gift to Pope Leo? $8.65 of pontiff’s own money",
+        "url": "https://apnews.com/article/illinois-treasurer-gift-pope-leo-xiv-certificate-reclaim-his-own-money-49a082b06d7788793a6b0d6cc35e75c9"
+      },
+      {
+        "source": "DW",
+        "title": "Pope Leo in Spain: More than a million line Madrid streets",
+        "url": "https://www.dw.com/en/pope-leo-in-spain-more-than-a-million-line-madrid-streets/a-77449027"
+      },
+      {
+        "source": "DW",
+        "title": "Gaudi's Sagrada Familia: A Barcelona icon",
+        "url": "https://www.dw.com/en/gaudis-sagrada-familia-a-barcelona-icon/video-77440811"
+      }
+    ],
+    "AI / 科技政策": [
+      {
+        "source": "AP World",
+        "title": "Artificial Intelligence",
+        "url": "https://apnews.com/hub/artificial-intelligence"
+      },
+      {
+        "source": "Reuters World",
+        "title": "Artificial Intelligence",
+        "url": "https://www.reuters.com/technology/artificial-intelligence/"
+      },
+      {
+        "source": "Nikkei Asia",
+        "title": "Artificial intelligence",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence"
+      }
+    ],
+    "Ukraine / 俄罗斯": [
+      {
+        "source": "AP World",
+        "title": "Ukrainian maritime drone explodes at a Romanian Black Sea port",
+        "url": "https://apnews.com/video/ukrainian-maritime-drone-explodes-at-a-romanian-black-sea-port-b7d911d879e94c468b66e28034561143"
+      },
+      {
+        "source": "AP World",
+        "title": "Ukraine targets St. Petersburg again after Putin rejects Zelenskyy’s offer for direct talks",
+        "url": "https://apnews.com/article/russia-ukraine-drones-st-petersburg-economic-forum-5d437293b65c413f231054bb1b04ce04"
+      },
+      {
+        "source": "AP World",
+        "title": "In public letter, Ukraine’s Zelenskyy calls on Putin for direct negotiations in a neutral country",
+        "url": "https://apnews.com/article/russia-ukraine-zelenskyy-putin-c5d735ba02ba98199ccac4e6faf51bd0"
+      },
+      {
+        "source": "Reuters World",
+        "title": "Ukraine and Russia at War",
+        "url": "https://www.reuters.com/world/ukraine-russia-war/"
+      },
+      {
+        "source": "France 24",
+        "title": "Russian attacks kill several people and wound more than 100 across Ukraine",
+        "url": "https://www.france24.com/en/europe/20260602-russian-attacks-kill-at-least-five-and-injure-dozens-across-ukraine"
+      },
+      {
+        "source": "France 24",
+        "title": "France backed by Britain intercepts sanctioned oil tanker sailing from Russia",
+        "url": "https://www.france24.com/en/france/20260601-france-and-allies-intercept-sanctioned-russian-oil-tanker-in-atlantic"
+      },
+      {
+        "source": "France 24",
+        "title": "Ukraine: How a kamikaze drone partially operated by AI is attacking Russian convoys",
+        "url": "https://www.france24.com/en/europe/20260601-ukraine-kamikaze-drone-partially-operated-ai-attacking-russian-convoys"
+      },
+      {
+        "source": "France 24",
+        "title": "The church by the airport: Inside Russia’s suspected spy activities in Sweden",
+        "url": "https://www.france24.com/en/europe/20250704-the-church-by-the-airport-inside-russia-s-suspected-spy-activities-in-sweden \"The church by the airport: Inside Russia’s suspected spy activities in Sweden\""
+      },
+      {
+        "source": "DW",
+        "title": "Ukraine: Russian drone hits nuclear-fuel storage facility",
+        "url": "https://www.dw.com/en/ukraine-russian-drone-hits-nuclear-fuel-storage-facility/a-77448846"
+      },
+      {
+        "source": "DW",
+        "title": "Armenia goes to polls, with Russia and EU looking on",
+        "url": "https://www.dw.com/en/armenia-goes-to-polls-with-russia-and-eu-looking-on/a-77447079"
+      },
+      {
+        "source": "NYT World",
+        "title": "A Voice for Ukraine’s Soldiers",
+        "url": "https://www.nytimes.com/2026/06/07/world/08int-theworld-ukraine-iran-israel-world-cup.html"
+      },
+      {
+        "source": "Nikkei Asia",
+        "title": "Visual investigation: A Ukrainian boy sent to North Korea by Russia",
+        "url": "https://asia.nikkei.com/static/vdata/infographics/ukrainian-children/"
+      }
+    ],
+    "通胀 / 美联储": [
+      {
+        "source": "AP World",
+        "title": "FACT FOCUS: Is inflation a red state vs. blue state issue? It’s increasing no matter how you cut it",
+        "url": "https://apnews.com/article/inflation-blue-states-fact-check-9cb276119b4dcaa9e433106cc29ca3a1"
+      },
+      {
+        "source": "AP Politics",
+        "title": "FACT FOCUS: Is inflation a red state vs. blue state issue? It’s increasing no matter how you cut it",
+        "url": "https://apnews.com/article/inflation-blue-states-fact-check-9cb276119b4dcaa9e433106cc29ca3a1"
+      }
+    ],
+    "Ebola / 刚果 / 卫生": [
+      {
+        "source": "AP World",
+        "title": "Bernadette Chirac, formidable former first lady of France who built power of her own, dies at 93",
+        "url": "https://apnews.com/article/obit-bernadette-chirac-jacques-france-first-lady-c8a62651a757c7d766c4757266846f78"
+      },
+      {
+        "source": "AP US",
+        "title": "Maverick Republican Sen. Bob Packwood of Oregon, who resigned after sexual harassment scandal, dies",
+        "url": "https://apnews.com/article/bob-packwood-obituary-ab7feaea89a34f1188f325ab1684d1f7"
+      },
+      {
+        "source": "AP US",
+        "title": "Psychiatrist Robert Coles, Pulitzer Prize-winning author who championed needs of children, dies",
+        "url": "https://apnews.com/article/psychiatrist-robert-coles-dies-99555e21f6fb4f73805ca036e4934f95"
+      },
+      {
+        "source": "AP Politics",
+        "title": "Maverick Republican Sen. Bob Packwood of Oregon, who resigned after sexual harassment scandal, dies",
+        "url": "https://apnews.com/article/bob-packwood-obituary-ab7feaea89a34f1188f325ab1684d1f7"
+      },
+      {
+        "source": "AP Politics",
+        "title": "Judge tosses Kennedy Center suit against musician who canceled Christmas Eve show",
+        "url": "https://apnews.com/article/kennedy-center-trump-chuck-redd-lawsuit-dismissed-8ef9936186210b5778e73893b94d9126"
+      },
+      {
+        "source": "France 24",
+        "title": "WHO reports dramatic drop in suspected Ebola cases from over 900 to 116",
+        "url": "https://www.france24.com/en/health/20260602-who-reports-dramatic-drop-in-suspected-ebola-cases-from-over-900-to-116"
+      },
+      {
+        "source": "France 24",
+        "title": "Who is Abelardo de la Espriella, the far‑right Trump fan who could lead Colombia?",
+        "url": "https://www.france24.com/en/americas/20260601-who-is-abelardo-de-la-espriella-the-far%E2%80%91right-trump-fan-who-could-lead-colombia"
+      },
+      {
+        "source": "France 24",
+        "title": "Willian Pacho: The kid from Quininde who rose to PSG defender heights",
+        "url": "https://www.france24.com/en/sport/20260529-willian-pacho-the-kid-from-quinind%C3%A9-who-rose-to-psg-defender-hieghts"
+      },
+      {
+        "source": "France 24",
+        "title": "‘Unwavering friendship’: The true story of nine women who escaped a Nazi death march",
+        "url": "https://www.france24.com/en/europe/20250429-true-story-nine-women-who-escaped-nazi-death-march-ravensbruck \"‘Unwavering friendship’: The true story of nine women who escaped a Nazi death march\""
+      },
+      {
+        "source": "France 24",
+        "title": "Protest outside Kenya's Ebola quarantine centre for US citizens",
+        "url": "https://www.france24.com/en/protest-outside-kenya-s-ebola-quarantine-center-for-us-citizens"
+      },
+      {
+        "source": "France 24",
+        "title": "Transforming Payments in the DRC: A Leap Towards a Digital Future",
+        "url": "https://www.france24.com/en/sponsored-content/20250923-transforming-payments-in-the-drc-a-leap-towards-a-digital-future"
+      },
+      {
+        "source": "DW",
+        "title": "How disinformation in Congo is worsening Ebola epidemic",
+        "url": "https://www.dw.com/en/how-disinformation-in-congo-is-worsening-ebola-epidemic/a-77434273"
+      },
+      {
+        "source": "NYT World",
+        "title": "Tribeca Festival Denounces Pair Who Joked on the Red Carpet About Rape",
+        "url": "https://www.nytimes.com/2026/06/07/world/middleeast/tribeca-film-festival-response-palestinian-joke.html"
+      },
+      {
+        "source": "NYT World",
+        "title": "Americans Love Soccer Stars Who Aren’t Made in America",
+        "url": "https://www.nytimes.com/2026/06/07/arts/world-cup-united-states-soccer-pele-beckham-messi.html"
+      }
+    ],
+    "加州初选 / 美国选举": [
+      {
+        "source": "AP US",
+        "title": "Democrat Xavier Becerra advances to general election in race for California governor",
+        "url": "https://apnews.com/article/california-governor-election-primary-2026-98b2b4dcca6813c3ffeb9754bd09805d"
+      },
+      {
+        "source": "AP US",
+        "title": "Matsui advances to November ballot in reelection bid for California congressional seat",
+        "url": "https://apnews.com/article/california-2026-election-us-house-kim-calvert-df0119606db4a0161ae913bd19b19138"
+      },
+      {
+        "source": "AP US",
+        "title": "US attorney opens investigations into California’s elections, sends prosecutor to LA vote center",
+        "url": "https://apnews.com/article/california-primary-ballot-counting-trump-investigation-22b06b32abdca1eb638b1603fcac27fc"
+      },
+      {
+        "source": "AP US",
+        "title": "Jury awards $176M for wrongful deaths of young brothers struck by California socialite’s car",
+        "url": "https://apnews.com/article/grossman-iskander-erickson-civil-trial-los-angeles-0eb1919707db6c7fa3d79ede1e65d056"
+      },
+      {
+        "source": "AP Politics",
+        "title": "Democrat Xavier Becerra advances to general election in race for California governor",
+        "url": "https://apnews.com/article/california-governor-election-primary-2026-98b2b4dcca6813c3ffeb9754bd09805d"
+      },
+      {
+        "source": "AP Politics",
+        "title": "Matsui advances to November ballot in reelection bid for California congressional seat",
+        "url": "https://apnews.com/article/california-2026-election-us-house-kim-calvert-df0119606db4a0161ae913bd19b19138"
+      },
+      {
+        "source": "AP Politics",
+        "title": "US attorney opens investigations into California’s elections, sends prosecutor to LA vote center",
+        "url": "https://apnews.com/article/california-primary-ballot-counting-trump-investigation-22b06b32abdca1eb638b1603fcac27fc"
+      },
+      {
+        "source": "France 24",
+        "title": "Californians vote in fiercely contested gubernatorial and congressional primaries",
+        "url": "https://www.france24.com/en/americas/20260602-californians-vote-in-fiercely-contested-gubernatorial-and-congressional-primaries"
+      }
+    ],
+    "D-Day / Hegseth 法国": [
+      {
+        "source": "AP Politics",
+        "title": "Female Navy officers say they fear a career cap after Hegseth cuts women from promotions list",
+        "url": "https://apnews.com/article/navy-promotions-women-hegseth-pentagon-e744efae3cc70902732fffce7ee1a69c"
+      }
+    ],
+    "油价 / 油轮": [
+      {
+        "source": "France 24",
+        "title": "France backed by Britain intercepts sanctioned oil tanker sailing from Russia",
+        "url": "https://www.france24.com/en/france/20260601-france-and-allies-intercept-sanctioned-russian-oil-tanker-in-atlantic"
+      }
+    ]
+  },
+  "uncategorized": [
+    {
+      "source": "AP World",
+      "title": "North Korea calls the US push for its denuclearization 'anachronistic dream'",
+      "url": "https://apnews.com/article/north-korea-kim-sister-nuclear-us-china-69ec6a91d30e069eac41d60350507b74"
+    },
+    {
+      "source": "AP World",
+      "title": "Years of pent-up emotions came flooding out of Alexander Zverev when he finally won the French Open",
+      "url": "https://apnews.com/article/zverev-cobolli-french-open-roland-garros-afbf92e0f000b2eddef08643ef68e139"
+    },
+    {
+      "source": "AP World",
+      "title": "The Tony Awards kick off with a big, Pink-led opening number and a win for John Lithgow",
+      "url": "https://apnews.com/article/tony-awards-2026-broadway-plays-980347242888f35a0298bdf63ed9a36c"
+    },
+    {
+      "source": "AP World",
+      "title": "'Scary Movie' tops box office, slaying 'Masters of the Universe' and adding to low-budget streak",
+      "url": "https://apnews.com/article/scary-movie-box-office-e50df318b505136cd8996aa0e02b2303"
+    },
+    {
+      "source": "AP World",
+      "title": "From unfilled gas tanks to fewer frills, retailers see US consumers rethink their spending",
+      "url": "https://apnews.com/article/iran-war-consumer-economy-retailers-3fb28b7dfc4ba21689e6c7068a32c70e"
+    },
+    {
+      "source": "AP World",
+      "title": "Broken speaker? Finicky zipper? Anticonsumerist Repair Cafes urge you to fix it instead of pitch it",
+      "url": "https://apnews.com/article/repair-cafes-economy-anticonsumerism-affordability-buy-nothing-d3acac3ec2aae5e85294b34f0f4764b8"
+    },
+    {
+      "source": "AP World",
+      "title": "Viral phenomenon in Argentina has young people identifying themselves as animals",
+      "url": "https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f"
+    },
+    {
+      "source": "AP World",
+      "title": "A humpback whale briefly swallows kayaker in Chilean Patagonia — and it's all captured on camera",
+      "url": "https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26"
+    },
+    {
+      "source": "AP World",
+      "title": "Raccoon goes on drunken rampage in Virginia liquor store and passes out on bathroom floor",
+      "url": "https://apnews.com/article/drunk-raccoon-liquor-store-bandit-virginia-5109feb2ea9ab9bf8954ec3798689fd0"
+    },
+    {
+      "source": "AP World",
+      "title": "Nipper, stay! The future of a beloved dog statue on a New York warehouse is up in the air",
+      "url": "https://apnews.com/article/nipper-dog-statue-albany-new-york-69a5ca4ec514f837626475b5d5264c1d"
+    },
+    {
+      "source": "AP World",
+      "title": "Being a night owl may not be great for your heart but you can do something about it",
+      "url": "https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9"
+    },
+    {
+      "source": "AP World",
+      "title": "Accessorize with earplugs at this summer's concerts so you can enjoy more music in the future",
+      "url": "https://apnews.com/article/best-concert-ear-plugs-hearing-loss-4dabcec47d818d5c18bec415f4b09659"
+    },
+    {
+      "source": "AP World",
+      "title": "At the Kaaba during Hajj, a photographer captures sense of unity and devotion",
+      "url": "https://apnews.com/article/one-photo-0000019e7027d80eaffffa377acf0000"
+    },
+    {
+      "source": "AP World",
+      "title": "A photo captures tear gas drifting across a mountain road during Bolivia protests",
+      "url": "https://apnews.com/article/one-photo-0000019e4ff1d68baddfeffb306b0000"
+    },
+    {
+      "source": "AP World",
+      "title": "In Brazil’s Cerrado region, Indigenous fire practices reshape wildfire strategy",
+      "url": "https://apnews.com/article/brazil-indigenous-wildfires-climate-change-87823ac02fc0af1971dbfc256612baa6"
+    },
+    {
+      "source": "AP World",
+      "title": "Pediatrics group issues new guidance on recess for the first time in 13 years",
+      "url": "https://apnews.com/article/recess-american-academy-pediatrics-kids-schools-0dd47c0392edb58f6c6086d72433560e"
+    },
+    {
+      "source": "AP World",
+      "title": "Worries about flying seem to be taking off. Here's how to cope with in-flight anxiety",
+      "url": "https://apnews.com/article/fear-of-flying-8e348402efc654a7248fb9fe4e5df852"
+    },
+    {
+      "source": "AP World",
+      "title": "Challenging your brain helps keep it healthy. Here's how to do it",
+      "url": "https://apnews.com/article/brain-games-dementia-alzheimers-cognition-e4ceb3b4dda84977083d1fc9fbb25ba7"
+    },
+    {
+      "source": "AP World",
+      "title": "One Tech Tip: Don't use rice for your device. Here's how to dry out your smartphone",
+      "url": "https://apnews.com/article/one-tech-tip-drying-phones-2a173bc38f2f188e35e3487b27f9da32"
+    },
+    {
+      "source": "AP World",
+      "title": "Apple's 50-year odyssey has redefined technology, pop culture and comeback stories",
+      "url": "https://apnews.com/article/apple-50-years-anniversary-computer-iphone-b462b82f1e202f28a75ab1a8070c00b7"
+    },
+    {
+      "source": "AP World",
+      "title": "Flower gardens endure hot, dry summers better if you choose these plants",
+      "url": "https://apnews.com/article/heattolerant-flowers-gardening-drought-84c6ff8a7f4d35e6758af9c9a4399f49"
+    },
+    {
+      "source": "AP World",
+      "title": "The electric guitar spawned garage bands, rock-god dreams — and generations of popular music",
+      "url": "https://apnews.com/article/american-objects-electric-guitar-2f4969a96846d5104d14295121cb0408"
+    },
+    {
+      "source": "AP World",
+      "title": "A new kind of date makes personal to-do lists a reason to get together with friends",
+      "url": "https://apnews.com/article/admin-dates-friends-social-tasks-list-1271a095d6bcd42aa144b280dd4930ed"
+    },
+    {
+      "source": "AP World",
+      "title": "4 years running, Southern Baptists weigh tightening ban on churches with women pastors",
+      "url": "https://apnews.com/article/southern-baptists-evangelical-women-patriarchy-donald-trump-e0ebf89837380add5bf614d8870a07f1"
+    },
+    {
+      "source": "AP World",
+      "title": "Solo en AP: Bajo la catedral de Notre Dame, una \"excavación del siglo\" halla 1.700 años de historia",
+      "url": "https://apnews.com/article/notre-dame-excavacion-tesoros-paris-arqueologia-romano-78a9cd3bdee7dc9785641ccfdc5d4297"
+    },
+    {
+      "source": "AP World",
+      "title": "Departamento de Defensa de EEUU reduce su lista religiosa de más de 200 opciones a 31",
+      "url": "https://apnews.com/article/eeuu-ejercito-lista-religiosa-b01f971d48fe18fddcf10dc3732ef172"
+    },
+    {
+      "source": "AP World",
+      "title": "The latest AP-NORC polls",
+      "url": "https://apnews.com/projects/polling-tracker/"
+    },
+    {
+      "source": "AP World",
+      "title": "Indigenous peoples and climate",
+      "url": "https://apnews.com/climate-and-environment/indigenous-peoples-adapting-to-and-combatting-climate-change"
+    },
+    {
+      "source": "AP World",
+      "title": "Mundial de Fútbol FIFA",
+      "url": "https://apnews.com/hub/mundial-de-futbol-fifa"
+    },
+    {
+      "source": "AP World",
+      "title": "Accessibility Statement",
+      "url": "https://apnews.com/accessibility-statement"
+    },
+    {
+      "source": "AP World",
+      "title": "Limit Use and Disclosure of Sensitive Personal Information",
+      "url": "https://privacyportal.onetrust.com/webform/9efcd77d-fbf7-40b0-a4b6-8fe108d3d374/766ad301-0e47-4688-b35c-08a0bd369481"
+    },
+    {
+      "source": "AP World",
+      "title": "CA Notice of Collection",
+      "url": "https://apnews.com/privacystatement#ca-notice"
+    },
+    {
+      "source": "AP World",
+      "title": "AP’s Role in Elections",
+      "url": "https://www.ap.org/about/our-role-in-elections"
+    },
+    {
+      "source": "AP World",
+      "title": "AP Definitive Source Blog",
+      "url": "https://blog.ap.org/"
+    },
+    {
+      "source": "AP World",
+      "title": "AP Images Spotlight Blog",
+      "url": "https://apimagesblog.com/"
+    },
+    {
+      "source": "AP World",
+      "title": "Missiles seen over the occupied West Bank",
+      "url": "https://apnews.com/video/missiles-seen-over-the-occupied-west-bank-5e194c5db672430b9507ed2dca30cc16"
+    },
+    {
+      "source": "AP World",
+      "title": "Italy recovers 10 bodies from a capsized migrant boat off Malta. Fishing vessel rescues 48",
+      "url": "https://apnews.com/article/migrants-boat-libya-italy-malta-rescue-21fab16a2b8fd83eec6fbe378da8fa95"
+    },
+    {
+      "source": "AP World",
+      "title": "See how your pay compares to the CEOs of the top US companies",
+      "url": "https://apnews.com/article/see-how-your-pay-compares-to-the-ceos-of-the-top-us-companies-0000019e3fbada77a59e7fbffcd20000"
+    },
+    {
+      "source": "AP World",
+      "title": "Chinese leader Xi heads to North Korea for closely watched talks with Kim",
+      "url": "https://apnews.com/article/china-north-korea-xi-kim-3aa60c2ed4f7a115c0c297df4dd04118"
+    },
+    {
+      "source": "AP World",
+      "title": "A ninth leader in 10 years: Peru’s runoff hinges on crime and 30% undecided voters",
+      "url": "https://apnews.com/article/peru-presidential-election-fujimori-sanchez-crime-mining-2b38123d0da9c2718c2d654aed64ff03"
+    },
+    {
+      "source": "AP World",
+      "title": "The Nigerian army frees 360 abducted people in northeastern Borno state",
+      "url": "https://apnews.com/article/nigeria-abducted-freed-army-borno-e5a331602145ff15c22ec486f43726bf"
+    },
+    {
+      "source": "AP World",
+      "title": "7.8 magnitude earthquake shakes part of southern Philippines. Tsunami possible for some coasts",
+      "url": "https://apnews.com/article/philippines-earthquake-mindanao-6e489739402863eaf40cbfd30a1b1cc7"
+    },
+    {
+      "source": "AP World",
+      "title": "Photos of Peru’s presidential election runoff",
+      "url": "https://apnews.com/photo-gallery/photos-peru-s-presidential-election-runoff-0fea2179aff24cb684cc247f55036631"
+    },
+    {
+      "source": "AP World",
+      "title": "Christian Eriksen ‘conscious’ after another on-field collapse in Denmark match, national team says",
+      "url": "https://apnews.com/article/eriksen-collapses-denmark-ukraine-soccer-4678269ffdca091bc696cd5caf9baf3c"
+    },
+    {
+      "source": "AP World",
+      "title": "Pakistan Kashmir’s top court upholds refugee seats and clears the way for upcoming elections",
+      "url": "https://apnews.com/article/pakistan-kashmir-court-refugee-seats-upcoming-elections-9dafaae025057b018f3afe7b30bb96d6"
+    },
+    {
+      "source": "AP World",
+      "title": "A raucous Copenhagen crowd cheers Denmark’s 2026 Mullet Championship",
+      "url": "https://apnews.com/article/denmark-mullet-hairstyle-festival-competition-ea0c4b66b1eb9f133983ea4d6f44f37c"
+    },
+    {
+      "source": "AP World",
+      "title": "Senior British royals gather as King Charles’ nephew marries nurse Harriet Sperling",
+      "url": "https://apnews.com/article/uk-royal-wedding-peter-phillips-harriet-sperling-87d8b8fc84a32c6e4a65310fc137827d"
+    },
+    {
+      "source": "AP World",
+      "title": "Police arrest supporters of banned group ahead of rally in Pakistan-administered Kashmir",
+      "url": "https://apnews.com/article/pakistan-kashmir-police-protest-006859907010f8f66cf4fb5ceb2ec6cb"
+    },
+    {
+      "source": "AP World",
+      "title": "Jamaica scrambles to restore power after rare islandwide blackout",
+      "url": "https://apnews.com/article/jamaica-power-blackout-electricity-storm-1c537742e280fe88f6be884d32e1bf88"
+    },
+    {
+      "source": "AP World",
+      "title": "UK police charge 6 more with violent disorder at protest over teen’s stabbing death",
+      "url": "https://apnews.com/article/henry-nowak-death-uk-protest-violence-e049659c3ec70f005fe7bf2f5ad9b1fd"
+    }
+  ],
+  "ranked_topics": [
+    [
+      "美国政治 / 移民 / ICE",
+      6,
+      40
+    ],
+    [
+      "Ebola / 刚果 / 卫生",
+      6,
+      14
+    ],
+    [
+      "Ukraine / 俄罗斯",
+      6,
+      12
+    ],
+    [
+      "Iran / 海湾",
+      4,
+      13
+    ],
+    [
+      "以色列 / 加沙 / 黎巴嫩",
+      3,
+      15
+    ],
+    [
+      "加州初选 / 美国选举",
+      3,
+      8
+    ],
+    [
+      "教皇 Leo / Spain",
+      3,
+      7
+    ],
+    [
+      "AI / 科技政策",
+      3,
+      3
+    ],
+    [
+      "通胀 / 美联储",
+      2,
+      2
+    ],
+    [
+      "D-Day / Hegseth 法国",
+      1,
+      1
+    ],
+    [
+      "油价 / 油轮",
+      1,
+      1
+    ]
+  ]
+}
