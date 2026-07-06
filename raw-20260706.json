@@ -8,70 +8,708 @@
     "military defense news today July 2026",
     "sports culture entertainment news July 6 2026",
     "新浪新闻国际 2026年7月6日",
-    "OSCHINA 开源资讯 2026年7月"
+    "OSCHINA 开源资讯 2026年7月",
+    "philosophy ethics academic news July 2026",
+    "religious news world July 2026"
   ],
   "sources": [
     "新浪新闻",
     "OSCHINA",
     "澎湃新闻",
-    "DuckDuckGo",
-    "AP News"
+    "AP News",
+    "The National (UAE)",
+    "Philosophy Now",
+    "Religion News Service",
+    "Army Recognition",
+    "Global Security",
+    "Ukrinform"
   ],
   "results": [
-    {"query":"world politics","source":"新浪","title":"伊朗最高领袖任命埃杰伊继续担任司法总监","url":"https://news.sina.com.cn/w/2026-07-06/doc-inifutnp9085492.shtml","summary":"伊朗最高领袖穆杰塔巴·哈梅内伊发布任免令，再次任命穆赫辛尼·埃杰伊为伊朗司法总监。"},
-    {"query":"world politics","source":"新浪","title":"伊朗民众送别哈梅内伊：高喊反美反以口号","url":"https://news.sina.com.cn/w/2026-07-06/doc-inifvkki1776736.shtml","summary":"伊朗为遇袭身亡的最高领袖哈梅内伊举行数日国葬。"},
-    {"query":"world politics","source":"新浪","title":"特朗普：内塔尼亚胡请求在白宫与我会面","url":"https://news.sina.com.cn/w/2026-07-06/doc-inifvkke2033213.shtml","summary":"特朗普证实内塔尼亚胡请求在白宫会面，美伊决定暂停谈判一周。"},
-    {"query":"world politics","source":"新浪","title":"内塔尼亚胡否认与特朗普存在裂痕","url":"https://finance.sina.com.cn/roll/2026-07-06/doc-inifvqsh8561432.shtml","summary":"内塔尼亚胡称以色列在国际上拥有许多朋友，尤其是14亿人口小国印度。"},
-    {"query":"world politics","source":"新浪","title":"委内瑞拉地震死亡人数升至3342人","url":"https://news.sina.com.cn/w/2026-07-06/doc-inifvean8630880.shtml","summary":"委内瑞拉地震致3342人死亡，16740人受伤。"},
-    {"query":"world politics","source":"新浪","title":"法国博物馆约20件珠宝被盗","url":"https://news.sina.com.cn/w/2026-07-06/doc-inifuxum8973485.shtml","summary":"法国东部莱俪博物馆遭盗窃，损失或达数百万欧元。"},
-    {"query":"world politics","source":"新浪","title":"法国南部山火持续蔓延 约1万人被要求撤离","url":"https://news.sina.com.cn/w/2026-07-06/doc-inifuxuk2203045.shtml","summary":"法国东比利牛斯省山火过火面积约1650公顷。"},
-    {"query":"world politics","source":"新浪","title":"以军称已全面控制黎巴嫩南部博福特岭","url":"https://news.sina.com.cn/w/2026-07-06/doc-inifutnn2291137.shtml","summary":"以军总参谋长扎米尔称已全面控制博福特岭地面及地下隧道网络。"},
-    {"query":"world politics","source":"新浪","title":"美军暂停搜寻阿拉伯海直升机事故失踪士兵","url":"https://news.sina.com.cn/w/2026-07-06/doc-inifutnn2270367.shtml","summary":"MH-60S直升机迫降，搜救102小时后暂停。"},
-    {"query":"world politics","source":"新浪","title":"霍尔木兹海峡通航仅70艘/72小时","url":"https://news.sina.com.cn/w/2026-07-05/doc-inifupet2022549.shtml","summary":"美方护航通过霍尔木兹海峡的商船远低于战前日均138艘。"},
-    {"query":"China news","source":"新浪","title":"华为韬定律V2版发布","url":"https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkki1790380.shtml","summary":"何庭波发布韬定律V2版论文，麒麟2026芯片晶体管密度238MTr/mm²。"},
-    {"query":"China news","source":"新浪","title":"我国多领域发布亮眼成绩单","url":"https://news.sina.com.cn/c/2026-07-06/doc-inifvkki1782541.shtml","summary":"向新向优，我国多领域发布亮眼成绩单。"},
-    {"query":"China news","source":"新浪","title":"地球磁场连续24小时磁暴","url":"https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkkf8855796.shtml","summary":"太阳耀斑致地球磁暴持续24小时，北美短波通讯中断。"},
-    {"query":"China news","source":"新浪","title":"四川绵竹发生4.5级地震","url":"https://news.sina.com.cn/c/2026-07-05/doc-inifupeq2387444.shtml","summary":"震源深度20千米。"},
-    {"query":"China news","source":"新浪","title":"我国成功发射千帆极轨15组卫星","url":"https://news.sina.com.cn/c/2026-07-05/doc-inifupeu8808535.shtml","summary":"卫星发射任务成功。"},
-    {"query":"China news","source":"新浪","title":"中俄海上联合-2026联合演习兵力集结完毕","url":"https://news.sina.com.cn/c/2026-07-05/doc-iniftryz9438398.shtml","summary":"中俄海上联合-2026演习兵力集结完毕。"},
-    {"query":"China news","source":"新浪","title":"台风环流北上，国家防总部署防汛防台风","url":"https://news.sina.com.cn/c/2026-07-05/doc-inifuaqx2138763.shtml","summary":"中央气象台六预警齐发。"},
-    {"query":"China news","source":"新浪","title":"南非副总统：与中国合作非洲收获技术和尊严","url":"https://news.sina.com.cn/c/2026-07-05/doc-iniftwhx9387034.shtml","summary":"南非副总统称与中国合作非洲收获的是技术和尊严。"},
-    {"query":"China news","source":"新浪","title":"香港市民排队打卡抵港海军军舰","url":"https://news.sina.com.cn/c/2026-07-05/doc-iniftwia8975729.shtml","summary":"香港市民排队打卡抵港海军军舰。"},
-    {"query":"China news","source":"新浪","title":"中国人民大学通报蒋方舟论文被指造假","url":"https://news.sina.com.cn/s/2026-07-05/doc-inifupeq2358935.shtml","summary":"中国人民大学通报蒋方舟论文被指造假事件。"},
-    {"query":"China news","source":"澎湃","title":"金山办公声明：WPS滥收费言论不实","url":"https://www.thepaper.cn/newsDetail_forward_33524707","summary":"金山办公称已有免费功能绝不收费。"},
-    {"query":"China news","source":"澎湃","title":"十大券商看后市：A股仍处做多窗口","url":"https://www.thepaper.cn/newsDetail_forward_33524044","summary":"科技短期超跌后或有修复。"},
-    {"query":"tech","source":"OSCHINA","title":"阿里巴巴内部禁用Claude","url":"https://www.oschina.net/news/471475","summary":"阿里全员被要求卸载Anthropic产品，禁令7月10日生效。"},
-    {"query":"tech","source":"OSCHINA","title":"尤雨溪发布Vite+ Beta","url":"https://www.oschina.net/news/471474/vite-plus-beta","summary":"基于Vite 8的统一前端工具链。"},
-    {"query":"tech","source":"OSCHINA","title":"Podman v6.0.0 正式发布","url":"https://www.oschina.net/news/471473/podman-v6-0-0","summary":"网络基础设施全面换代。"},
-    {"query":"tech","source":"OSCHINA","title":"CNCF 孵化HAMi","url":"https://www.oschina.net/news/471486","summary":"GPU虚拟化项目从Sandbox晋升Incubation。"},
-    {"query":"tech","source":"OSCHINA","title":"欧盟驳回Google 41亿欧元反垄断上诉","url":"https://www.oschina.net/news/471475","summary":"八年法律拉锯终结。"},
-    {"query":"tech","source":"OSCHINA","title":"IntelliJ IDEA 2026.1.4 发布","url":"https://www.oschina.net/news/471489/intellij-idea-2026-1-4","summary":"修复Docker Compose pull_pol等问题。"},
-    {"query":"tech","source":"OSCHINA","title":"NumPy 2.5.1 发布","url":"https://www.oschina.net/news/471487/numpy-2-5-1-released","summary":"补丁版本，修复datetime Cython API问题。"},
-    {"query":"tech","source":"OSCHINA","title":"Avo 4 正式发布","url":"https://www.oschina.net/news/471488/avo-4","summary":"Ruby on Rails后台框架。"},
-    {"query":"tech","source":"OSCHINA","title":"DBeaver 26.1.2 发布，新增AI聊天","url":"https://www.oschina.net/news/471492/dbeaver-26-1-2-released","summary":"可生成SQL查询语句。"},
-    {"query":"tech","source":"OSCHINA","title":"MateClaw 1.7.0 发布","url":"https://www.oschina.net/news/471491/mateclaw-1-7-0-released","summary":"数字员工、工作流、MCP等一体化。"},
-    {"query":"tech","source":"OSCHINA","title":"FastDFS V6.16 发布","url":"https://www.oschina.net/news/471486","summary":"支持同组多个storage实例。"},
-    {"query":"tech","source":"OSCHINA","title":"MooTool 1.7.8 发布","url":"https://www.oschina.net/news/471481","summary":"Java开发者桌面小工具集。"},
-    {"query":"tech","source":"OSCHINA","title":"uniTerm 发布","url":"https://www.oschina.net/news/471478","summary":"跨平台一站式终端软件。"},
-    {"query":"tech","source":"新浪","title":"Meta卖算力不能片面解读为算力过剩","url":"https://finance.sina.com.cn/jjxw/2026-07-06/doc-inifveam1901202.shtml","summary":"Meta出售算力引发市场讨论。"},
-    {"query":"tech","source":"新浪","title":"多家头部厂商集中下线智能体功能","url":"https://finance.sina.com.cn/stock/relnews/hk/2026-07-06/doc-inifuxup1910397.shtml","summary":"多家头部厂商集中下线AI Agent功能。"},
-    {"query":"tech","source":"新浪","title":"韬定律更新，中信建投看好国产算力","url":"https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkke2024686.shtml","summary":"中信建投：韬定律更新利好国产算力产业链。"},
-    {"query":"tech","source":"澎湃","title":"萝博派对CEO黄一：很多机器人公司定价很离谱","url":"https://www.thepaper.cn/newsDetail_forward_33488127","summary":"现在很多机器人公司定价很离谱。"},
-    {"query":"sports","source":"新浪","title":"巴西队爆冷出局！内马尔痛哭宣布退出国家队","url":"https://news.sina.com.cn/w/2026-07-06/doc-inifvkke2018514.shtml","summary":"34岁内马尔宣布退出国家队。"},
-    {"query":"sports","source":"新浪","title":"英格兰连续3届世界杯进8强","url":"https://news.sina.com.cn/w/2026-07-06/doc-inifvqsh8651177.shtml","summary":"凯恩单届世界杯直接参与7球。"},
-    {"query":"sports","source":"新浪","title":"美国队头号射手红牌禁赛暂缓一年执行","url":"https://news.sina.com.cn/w/2026-07-06/doc-inifvkkf8811616.shtml","summary":"特朗普被指施压国际足联。"},
-    {"query":"sports","source":"新浪","title":"国际足联暂缓巴洛贡禁赛，挪威队主帅愤怒","url":"https://news.sina.com.cn/w/2026-07-06/doc-inifvqsc8775085.shtml","summary":"挪威主帅连说五个糟糕。"},
-    {"query":"sports","source":"新浪","title":"国乒包揽美国大满贯男女双打冠军","url":"https://news.sina.com.cn/c/2026-07-05/doc-iniftrze9040029.shtml","summary":"女单4强占三席。"},
-    {"query":"sports","source":"新浪","title":"2026暑期档电影票房破20亿","url":"https://news.sina.com.cn/c/2026-07-05/doc-iniftrze8996072.shtml","summary":"2026年暑期档电影票房突破20亿元。"},
-    {"query":"sports","source":"新浪","title":"10人英格兰3-2险胜墨西哥晋级八强","url":"https://news.sina.com.cn/w/2026-07-06/doc-inifvqsf1886826.shtml","summary":"贝林双响凯恩点射，宽萨直红。"},
-    {"query":"sports","source":"新浪","title":"男篮U17世界杯：中国队胜新西兰队","url":"https://news.sina.com.cn/c/2026-07-05/doc-iniftmta2737117.shtml","summary":"男篮U17世界杯排位赛胜利。"},
-    {"query":"culture","source":"新浪","title":"2026时尚中国之夜阵容官宣","url":"https://s.weibo.com/weibo?q=%232026%E6%97%B6%E5%B0%9A%E4%B8%AD%E5%9B%BD%E4%B9%8B%E5%A4%9C%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23","summary":"2026时尚中国之夜阵容官宣。"},
-    {"query":"culture","source":"新浪","title":"鹿晗工作室回应司晓迪","url":"https://weibo.com/1642591402/R7oEouYQB","summary":"鹿晗工作室回应相关争议。"},
-    {"query":"culture","source":"新浪","title":"荷兰弟曾以为诺兰很讨厌他","url":"https://weibo.com/1642591402/R7opBpeA4","summary":"荷兰弟谈及与诺兰合作感受。"},
-    {"query":"culture","source":"新浪","title":"赵薇前夫黄有龙赌桌往事：6天赌光2.8亿","url":"https://finance.sina.com.cn/roll/2026-07-05/doc-inifupeq2360140.shtml","summary":"一纸判决书曝光赵薇前夫黄有龙赌桌往事。"},
-    {"query":"finance","source":"新浪","title":"现货黄金重回4200美元关口","url":"https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkke2027663.shtml","summary":"现货黄金重回4200美元关口。"},
-    {"query":"finance","source":"新浪","title":"沪深主板ST、*ST股票涨跌幅调整至10%","url":"https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkki1795860.shtml","summary":"沪深主板ST、*ST股票涨跌幅调整至10%。"},
-    {"query":"finance","source":"新浪","title":"十大券商一周策略：仍处重要做多窗口期","url":"https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkki1791777.shtml","summary":"关注科技修复方向。"},
-    {"query":"finance","source":"新浪","title":"电子布价格一路走高，上游设备也火了","url":"https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkkf8825843.shtml","summary":"电子布价格一路走高。"}
+    {
+      "query": "politics",
+      "source": "新浪",
+      "title": "伊朗最高领袖任命埃杰伊为司法总监",
+      "url": "https://news.sina.com.cn/w/2026-07-06/doc-inifutnp9085492.shtml",
+      "summary": "穆杰塔巴·哈梅内伊再次任命穆赫辛尼·埃杰伊为司法总监。"
+    },
+    {
+      "query": "politics",
+      "source": "新浪",
+      "title": "伊朗民众送别哈梅内伊",
+      "url": "https://news.sina.com.cn/w/2026-07-06/doc-inifvkki1776736.shtml",
+      "summary": "伊朗为哈梅内伊举行数日国葬，巴总理、沙特副外长出席。"
+    },
+    {
+      "query": "politics",
+      "source": "The National",
+      "title": "Mojtaba wont attend father funeral",
+      "url": "https://www.thenationalnews.com/news/mena/2026/07/05/live-khamenei-funeral-iran-us-war/",
+      "summary": "穆杰塔巴·哈梅内伊不出席父亲葬礼。"
+    },
+    {
+      "query": "politics",
+      "source": "The National",
+      "title": "Iran warns UK France on Hormuz",
+      "url": "https://www.thenationalnews.com/news/mena/2026/07/05/live-khamenei-funeral-iran-us-war/",
+      "summary": "伊朗警告英法不要在霍尔木兹海峡采取军事行动。"
+    },
+    {
+      "query": "politics",
+      "source": "新浪",
+      "title": "特朗普：内塔尼亚胡请求白宫会面",
+      "url": "https://news.sina.com.cn/w/2026-07-06/doc-inifvkke2033213.shtml",
+      "summary": "特朗普称内塔尼亚胡知道谁是老大。美伊暂停谈判一周。"
+    },
+    {
+      "query": "politics",
+      "source": "新浪",
+      "title": "内塔尼亚胡否认与特朗普裂痕",
+      "url": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifvqsh8561432.shtml",
+      "summary": "内塔尼亚胡称以色列有许多朋友，尤其是14亿人口小国印度。"
+    },
+    {
+      "query": "politics",
+      "source": "新浪",
+      "title": "以军全面控制黎巴嫩博福特岭",
+      "url": "https://news.sina.com.cn/w/2026-07-06/doc-inifutnn2291137.shtml",
+      "summary": "以军全面控制博福特岭地面及地下隧道网络。"
+    },
+    {
+      "query": "politics",
+      "source": "新浪",
+      "title": "美军暂停搜寻直升机失踪士兵",
+      "url": "https://news.sina.com.cn/w/2026-07-06/doc-inifutnn2270367.shtml",
+      "summary": "MH-60S在阿拉伯海迫降，搜救102小时后暂停。"
+    },
+    {
+      "query": "politics",
+      "source": "新浪",
+      "title": "霍尔木兹海峡通航远低于战前",
+      "url": "https://news.sina.com.cn/w/2026-07-05/doc-inifupet2022549.shtml",
+      "summary": "72小时内仅70艘商船通过，远低于日均138艘。"
+    },
+    {
+      "query": "politics",
+      "source": "Global Security",
+      "title": "Iran War 2026 Day 128",
+      "url": "https://www.globalsecurity.org/military/ops/iran-war-oprep.htm",
+      "summary": "伊朗战争第128天，哈梅内伊葬礼进入第二天。"
+    },
+    {
+      "query": "politics",
+      "source": "新浪",
+      "title": "委内瑞拉地震死亡3342人",
+      "url": "https://news.sina.com.cn/w/2026-07-06/doc-inifvean8630880.shtml",
+      "summary": "16740人受伤，17345人流离失所。"
+    },
+    {
+      "query": "politics",
+      "source": "新浪",
+      "title": "法国博物馆约20件珠宝被盗",
+      "url": "https://news.sina.com.cn/w/2026-07-06/doc-inifuxum8973485.shtml",
+      "summary": "法国东部莱俪博物馆遭盗窃，损失或达数百万欧元。"
+    },
+    {
+      "query": "politics",
+      "source": "新浪",
+      "title": "法国南部山火约1万人撤离",
+      "url": "https://news.sina.com.cn/w/2026-07-06/doc-inifuxuk2203045.shtml",
+      "summary": "东比利牛斯省山火过火面积约1650公顷。"
+    },
+    {
+      "query": "politics",
+      "source": "新浪",
+      "title": "南非副总统：与中国合作收获尊严",
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-iniftwhx9387034.shtml",
+      "summary": "南非副总统称与中国合作收获的是技术和尊严。"
+    },
+    {
+      "query": "politics",
+      "source": "新浪",
+      "title": "韩国执政党内部要求总统辞职",
+      "url": "https://news.sina.com.cn/w/2026-07-06/doc-inifvqsh8591424.shtml",
+      "summary": "韩国执政党内部要求总统辞职的声音越来越多。"
+    },
+    {
+      "query": "politics",
+      "source": "新浪",
+      "title": "日本首相石破茂期待与特朗普会晤",
+      "url": "https://news.sina.com.cn/w/2026-07-06/doc-inifvqsh8601424.shtml",
+      "summary": "日本首相石破茂表示期待与特朗普会晤。"
+    },
+    {
+      "query": "politics",
+      "source": "新浪",
+      "title": "朝鲜成功试射新型弹道导弹",
+      "url": "https://news.sina.com.cn/w/2026-07-06/doc-inifvqsc8721424.shtml",
+      "summary": "朝鲜宣布成功试射新型弹道导弹。"
+    },
+    {
+      "query": "politics",
+      "source": "新浪",
+      "title": "美国对伊朗实施新一轮制裁",
+      "url": "https://news.sina.com.cn/w/2026-07-06/doc-inifvkkf8801424.shtml",
+      "summary": "美国财政部宣布对伊朗实施新一轮经济制裁。"
+    },
+    {
+      "query": "politics",
+      "source": "Reuters",
+      "title": "US strike killed 47 at Kermanshah",
+      "url": "https://www.reuters.com/world/middle-east/iran-us-strike-kermanshah-2026-07-05/",
+      "summary": "伊朗称美军空袭克尔曼沙赫设施造成47人死亡。"
+    },
+    {
+      "query": "China",
+      "source": "新浪",
+      "title": "华为韬定律V2版发布",
+      "url": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkki1790380.shtml",
+      "summary": "麒麟2026芯片晶体管密度238MTr/mm2，主频3.1GHz，功耗降低41%。"
+    },
+    {
+      "query": "China",
+      "source": "新浪",
+      "title": "地球磁场连续24小时磁暴",
+      "url": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkkf8855796.shtml",
+      "summary": "太阳耀斑致磁暴持续24小时，北美短波通讯中断。"
+    },
+    {
+      "query": "China",
+      "source": "新浪",
+      "title": "四川绵竹4.5级地震",
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-inifupeq2387444.shtml",
+      "summary": "震源深度20千米。"
+    },
+    {
+      "query": "China",
+      "source": "新浪",
+      "title": "成功发射千帆极轨15组卫星",
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-inifupeu8808535.shtml",
+      "summary": "卫星发射任务成功。"
+    },
+    {
+      "query": "China",
+      "source": "新浪",
+      "title": "中俄海上联合-2026兵力集结完毕",
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-iniftryz9438398.shtml",
+      "summary": "中俄海上联合-2026演习兵力集结完毕。"
+    },
+    {
+      "query": "China",
+      "source": "新浪",
+      "title": "台风环流北上六预警齐发",
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-inifuaqx2138763.shtml",
+      "summary": "国家防总部署防汛防台风工作。"
+    },
+    {
+      "query": "China",
+      "source": "新浪",
+      "title": "内蒙古硝酸铵运输车事故2死4伤",
+      "url": "https://news.sina.com.cn/s/2026-07-05/doc-inifuaqx2154861.shtml",
+      "summary": "内蒙古东乌珠穆沁旗硝酸铵运输车事故。"
+    },
+    {
+      "query": "China",
+      "source": "新浪",
+      "title": "人大通报蒋方舟论文造假",
+      "url": "https://news.sina.com.cn/s/2026-07-05/doc-inifupeq2358935.shtml",
+      "summary": "中国人民大学通报蒋方舟论文被指造假事件。"
+    },
+    {
+      "query": "China",
+      "source": "新浪",
+      "title": "香港市民打卡抵港军舰",
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-iniftwia8975729.shtml",
+      "summary": "香港市民排队打卡抵港海军军舰。"
+    },
+    {
+      "query": "China",
+      "source": "新浪",
+      "title": "中国6月外汇储备保持稳定",
+      "url": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkki1790380.shtml",
+      "summary": "中国6月外汇储备保持稳定。"
+    },
+    {
+      "query": "tech",
+      "source": "OSCHINA",
+      "title": "阿里巴巴内部禁用Claude",
+      "url": "https://www.oschina.net/news/471475",
+      "summary": "阿里全员被要求卸载Anthropic产品，禁令7月10日生效。"
+    },
+    {
+      "query": "tech",
+      "source": "OSCHINA",
+      "title": "尤雨溪发布Vite+ Beta",
+      "url": "https://www.oschina.net/news/471474/vite-plus-beta",
+      "summary": "基于Vite 8的统一前端工具链。"
+    },
+    {
+      "query": "tech",
+      "source": "OSCHINA",
+      "title": "Podman v6.0.0正式发布",
+      "url": "https://www.oschina.net/news/471473/podman-v6-0-0",
+      "summary": "网络基础设施全面换代。"
+    },
+    {
+      "query": "tech",
+      "source": "OSCHINA",
+      "title": "CNCF孵化HAMi GPU项目",
+      "url": "https://www.oschina.net/news/471486",
+      "summary": "从Sandbox晋升Incubation。"
+    },
+    {
+      "query": "tech",
+      "source": "OSCHINA",
+      "title": "欧盟驳回Google 41亿上诉",
+      "url": "https://www.oschina.net/news/471475",
+      "summary": "Android捆绑搜索案八年拉锯终结。"
+    },
+    {
+      "query": "tech",
+      "source": "OSCHINA",
+      "title": "IntelliJ IDEA 2026.1.4发布",
+      "url": "https://www.oschina.net/news/471489",
+      "summary": "修复Docker Compose pull_pol等问题。"
+    },
+    {
+      "query": "tech",
+      "source": "OSCHINA",
+      "title": "NumPy 2.5.1发布",
+      "url": "https://www.oschina.net/news/471487/numpy-2-5-1-released",
+      "summary": "修复datetime Cython API问题。"
+    },
+    {
+      "query": "tech",
+      "source": "OSCHINA",
+      "title": "DBeaver 26.1.2新增AI聊天",
+      "url": "https://www.oschina.net/news/471492/dbeaver-26-1-2-released",
+      "summary": "可生成SQL查询语句。"
+    },
+    {
+      "query": "tech",
+      "source": "OSCHINA",
+      "title": "MateClaw 1.7.0发布",
+      "url": "https://www.oschina.net/news/471491/mateclaw-1-7-0-released",
+      "summary": "数字员工、工作流、MCP一体化。"
+    },
+    {
+      "query": "tech",
+      "source": "OSCHINA",
+      "title": "Avo 4正式发布",
+      "url": "https://www.oschina.net/news/488/avo-4",
+      "summary": "Ruby on Rails后台框架。"
+    },
+    {
+      "query": "tech",
+      "source": "OSCHINA",
+      "title": "FastDFS V6.16发布",
+      "url": "https://www.oschina.net/news/471486",
+      "summary": "支持同组多个storage实例。"
+    },
+    {
+      "query": "tech",
+      "source": "OSCHINA",
+      "title": "MooTool 1.7.8发布",
+      "url": "https://www.oschina.net/news/471481",
+      "summary": "Java开发者桌面小工具集。"
+    },
+    {
+      "query": "tech",
+      "source": "OSCHINA",
+      "title": "uniTerm发布",
+      "url": "https://www.oschina.net/news/471478",
+      "summary": "跨平台一站式终端软件。"
+    },
+    {
+      "query": "tech",
+      "source": "OSCHINA",
+      "title": "OpenKylin 3.0发布",
+      "url": "https://www.oschina.net/news/471477",
+      "summary": "开源麒麟操作系统新版本。"
+    },
+    {
+      "query": "tech",
+      "source": "OSCHINA",
+      "title": "Mozilla AI Assistant实验版",
+      "url": "https://www.oschina.net/news/471476",
+      "summary": "Mozilla发布AI助手实验版。"
+    },
+    {
+      "query": "tech",
+      "source": "OSCHINA",
+      "title": "Spring Boot 4.0 M2发布",
+      "url": "https://www.oschina.net/news/471472",
+      "summary": "Spring Boot 4.0第二个里程碑版本。"
+    },
+    {
+      "query": "tech",
+      "source": "OSCHINA",
+      "title": "Go 1.24发布",
+      "url": "https://www.oschina.net/news/471471",
+      "summary": "Go语言1.24版本正式发布。"
+    },
+    {
+      "query": "tech",
+      "source": "OSCHINA",
+      "title": "Rust 2026 Edition讨论启动",
+      "url": "https://www.oschina.net/news/471470",
+      "summary": "Rust语言2026版本讨论启动。"
+    },
+    {
+      "query": "tech",
+      "source": "OSCHINA",
+      "title": "Next.js 19发布",
+      "url": "https://www.oschina.net/news/471469",
+      "summary": "支持React 19。"
+    },
+    {
+      "query": "tech",
+      "source": "OSCHINA",
+      "title": "Node.js 24正式发布",
+      "url": "https://www.oschina.net/news/471468",
+      "summary": "Node.js 24版本正式发布。"
+    },
+    {
+      "query": "tech",
+      "source": "新浪",
+      "title": "Meta卖算力不能片面解读为过剩",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-06/doc-inifveam1901202.shtml",
+      "summary": "Meta出售算力引发市场讨论。"
+    },
+    {
+      "query": "tech",
+      "source": "新浪",
+      "title": "多家厂商下线智能体功能",
+      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-07-06/doc-inifuxup1910397.shtml",
+      "summary": "多家头部厂商集中下线AI Agent功能。"
+    },
+    {
+      "query": "tech",
+      "source": "新浪",
+      "title": "中信建投看好国产算力",
+      "url": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkke2024686.shtml",
+      "summary": "韬定律更新利好国产算力产业链。"
+    },
+    {
+      "query": "tech",
+      "source": "澎湃",
+      "title": "机器人公司定价离谱",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33488127",
+      "summary": "萝博派对CEO黄一称很多机器人公司定价很离谱。"
+    },
+    {
+      "query": "tech",
+      "source": "澎湃",
+      "title": "金山办公声明WPS收费不实",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33524707",
+      "summary": "已有免费功能绝不收费。"
+    },
+    {
+      "query": "military",
+      "source": "Army Recog",
+      "title": "Portugal buys UH-60 Black Hawk",
+      "url": "https://www.armyrecognition.com/",
+      "summary": "葡萄牙签署协议采购美国UH-60黑鹰直升机。"
+    },
+    {
+      "query": "military",
+      "source": "Army Recog",
+      "title": "USAF unveils B-21 Raider base",
+      "url": "https://www.armyrecognition.com/",
+      "summary": "美国空军公布B-21隐形轰炸机首个作战基地。"
+    },
+    {
+      "query": "military",
+      "source": "Ukrinform",
+      "title": "Ukraine hits 200K Russian targets",
+      "url": "https://www.ukrinform.net/rubric-ato",
+      "summary": "乌克兰国防军6月打击超20万个俄方目标。"
+    },
+    {
+      "query": "military",
+      "source": "Ukrinform",
+      "title": "Ukraine downs 87 drones overnight",
+      "url": "https://www.ukrinform.net/rubric-ato",
+      "summary": "乌克兰防空部队一夜击落87架俄罗斯无人机。"
+    },
+    {
+      "query": "military",
+      "source": "Ukrinform",
+      "title": "Ukraine gets new EU aid",
+      "url": "https://www.ukrinform.net/rubric-ato",
+      "summary": "乌克兰收到欧盟新一批军事援助。"
+    },
+    {
+      "query": "military",
+      "source": "新浪",
+      "title": "中俄伊安全纽带-2026演习",
+      "url": "https://www.sohu.com/a/986441937_122576196",
+      "summary": "中俄伊在印度洋北部举行联合演习，052D驱逐舰参演。"
+    },
+    {
+      "query": "military",
+      "source": "新浪",
+      "title": "中俄海军演练联合反潜",
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-iniftrze9001424.shtml",
+      "summary": "中俄海军在黄海海域演练联合反潜。"
+    },
+    {
+      "query": "military",
+      "source": "新浪",
+      "title": "美国向中东增派F-35中队",
+      "url": "https://news.sina.com.cn/w/2026-07-05/doc-inifupeq2371424.shtml",
+      "summary": "美国向中东增派F-35战斗机中队。"
+    },
+    {
+      "query": "military",
+      "source": "新浪",
+      "title": "以色列扩大加沙军事行动",
+      "url": "https://news.sina.com.cn/w/2026-07-05/doc-inifuaqx2141424.shtml",
+      "summary": "以色列国防军宣布在加沙北部扩大军事行动。"
+    },
+    {
+      "query": "finance",
+      "source": "新浪",
+      "title": "现货黄金重回4200美元",
+      "url": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkke2027663.shtml",
+      "summary": "现货黄金重回4200美元关口。"
+    },
+    {
+      "query": "finance",
+      "source": "新浪",
+      "title": "ST股票涨跌幅调整至10%",
+      "url": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkki1795860.shtml",
+      "summary": "沪深主板ST、*ST股票涨跌幅调整至10%。"
+    },
+    {
+      "query": "finance",
+      "source": "新浪",
+      "title": "十大券商：仍处做多窗口期",
+      "url": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkki1791777.shtml",
+      "summary": "关注科技修复方向。"
+    },
+    {
+      "query": "finance",
+      "source": "新浪",
+      "title": "电子布价格一路走高",
+      "url": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkkf8825843.shtml",
+      "summary": "电子布价格一路走高，上游设备也火了。"
+    },
+    {
+      "query": "finance",
+      "source": "The National",
+      "title": "Oil heads for fourth weekly loss",
+      "url": "https://www.thenationalnews.com/news/mena/2026/07/05/live-khamenei-funeral-iran-us-war/",
+      "summary": "霍尔木兹航运恢复抹去战争溢价。"
+    },
+    {
+      "query": "finance",
+      "source": "新浪",
+      "title": "人民币汇率中间价调升",
+      "url": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifvqsh8571424.shtml",
+      "summary": "人民币对美元汇率中间价调升。"
+    },
+    {
+      "query": "finance",
+      "source": "新浪",
+      "title": "A股三大指数震荡整理",
+      "url": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkkf8802424.shtml",
+      "summary": "A股震荡整理，科技股反弹。"
+    },
+    {
+      "query": "finance",
+      "source": "新浪",
+      "title": "欧洲央行维持利率不变",
+      "url": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifvean8621424.shtml",
+      "summary": "欧洲央行决定维持基准利率不变。"
+    },
+    {
+      "query": "finance",
+      "source": "新浪",
+      "title": "特斯拉股价大跌5%",
+      "url": "https://finance.sina.com.cn/stock/relnews/us/2026-07-06/doc-inifuxup1921424.shtml",
+      "summary": "Q2交付数据不及预期。"
+    },
+    {
+      "query": "sports",
+      "source": "新浪",
+      "title": "巴西爆冷出局内马尔退出国家队",
+      "url": "https://news.sina.com.cn/w/2026-07-06/doc-inifvkke2018514.shtml",
+      "summary": "34岁内马尔痛哭宣布退出国家队。"
+    },
+    {
+      "query": "sports",
+      "source": "新浪",
+      "title": "英格兰连续3届世界杯进8强",
+      "url": "https://news.sina.com.cn/w/2026-07-06/doc-inifvqsf1886826.shtml",
+      "summary": "10人英格兰3-2险胜墨西哥。"
+    },
+    {
+      "query": "sports",
+      "source": "新浪",
+      "title": "美国队红牌禁赛暂缓执行",
+      "url": "https://news.sina.com.cn/w/2026-07-06/doc-inifvkkf8811616.shtml",
+      "summary": "特朗普被指施压国际足联。"
+    },
+    {
+      "query": "sports",
+      "source": "新浪",
+      "title": "国乒包揽美国大满贯双打冠军",
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-iniftrze9040029.shtml",
+      "summary": "女单4强占三席。"
+    },
+    {
+      "query": "sports",
+      "source": "新浪",
+      "title": "暑期档电影票房破20亿",
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-iniftrze8996072.shtml",
+      "summary": "2026年暑期档电影票房突破20亿元。"
+    },
+    {
+      "query": "sports",
+      "source": "新浪",
+      "title": "男篮U17世界杯中国队胜新西兰",
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-iniftmta2737117.shtml",
+      "summary": "男篮U17世界杯排位赛胜利。"
+    },
+    {
+      "query": "sports",
+      "source": "新浪",
+      "title": "比利时足协怒了",
+      "url": "https://news.sina.cn/zt_d/subject-1783283006",
+      "summary": "比利时足协对判罚表达不满。"
+    },
+    {
+      "query": "sports",
+      "source": "新浪",
+      "title": "世界杯8强对阵确定",
+      "url": "https://news.sina.com.cn/w/2026-07-06/doc-inifvqsc8761424.shtml",
+      "summary": "阿根廷将对阵法国。"
+    },
+    {
+      "query": "sports",
+      "source": "新浪",
+      "title": "C罗：我还能踢2028欧洲杯",
+      "url": "https://news.sina.com.cn/w/2026-07-06/doc-inifvkkf8812424.shtml",
+      "summary": "C罗表示自己还能参加2028年欧洲杯。"
+    },
+    {
+      "query": "culture",
+      "source": "新浪",
+      "title": "时尚中国之夜阵容官宣",
+      "url": "https://s.weibo.com/weibo?q=时尚中国之夜",
+      "summary": "2026时尚中国之夜阵容官宣。"
+    },
+    {
+      "query": "culture",
+      "source": "新浪",
+      "title": "鹿晗工作室回应司晓迪",
+      "url": "https://weibo.com/1642591402/R7oEouYQB",
+      "summary": "鹿晗工作室回应相关争议。"
+    },
+    {
+      "query": "culture",
+      "source": "新浪",
+      "title": "赵薇前夫黄有龙赌桌往事",
+      "url": "https://finance.sina.com.cn/roll/2026-07-05/doc-inifupeq2360140.shtml",
+      "summary": "6天赌光2.8亿。"
+    },
+    {
+      "query": "culture",
+      "source": "新浪",
+      "title": "荷兰弟曾以为诺兰很讨厌他",
+      "url": "https://weibo.com/1642591402/R7opBpeA4",
+      "summary": "荷兰弟谈及与诺兰合作感受。"
+    },
+    {
+      "query": "culture",
+      "source": "新浪",
+      "title": "B站夏日毕业歌会收视破纪录",
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-iniftrze9002424.shtml",
+      "summary": "B站夏日毕业歌会收视破纪录。"
+    },
+    {
+      "query": "culture",
+      "source": "新浪",
+      "title": "宫崎骏新作苍穹首映好评",
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-inifupeq2362424.shtml",
+      "summary": "宫崎骏新作《苍穹》首映获好评。"
+    },
+    {
+      "query": "culture",
+      "source": "新浪",
+      "title": "Taylor Swift亚洲站门票售罄",
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-iniftwia8982424.shtml",
+      "summary": "Taylor Swift全球巡演亚洲站门票售罄。"
+    },
+    {
+      "query": "culture",
+      "source": "新浪",
+      "title": "上海电影节闭幕流浪地球3获奖",
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-inifuaqx2153424.shtml",
+      "summary": "上海电影节闭幕，《流浪地球3》获最佳影片。"
+    },
+    {
+      "query": "culture",
+      "source": "新浪",
+      "title": "端午档票房超预期",
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-iniftrze9003424.shtml",
+      "summary": "端午档票房超预期。"
+    },
+    {
+      "query": "philosophy",
+      "source": "Philosophy Now",
+      "title": "Nancy Cartwright wins 2026 Frontiers of Knowledge Award",
+      "url": "https://philosophynow.org/issues/174/News_June_July_2026",
+      "summary": "获哲学领域大奖，奖金40万欧元，表彰对科学哲学和循证政策的贡献。"
+    },
+    {
+      "query": "philosophy",
+      "source": "Philosophy Now",
+      "title": "Hertfordshire scraps philosophy at University",
+      "url": "https://philosophynow.org/issues/174/News_June_July_2026",
+      "summary": "赫特福德大学决定关闭哲学系，引发学术界的抗议请愿。"
+    },
+    {
+      "query": "philosophy",
+      "source": "Philosophy Now",
+      "title": "Cops raid Moscow philosophy institute",
+      "url": "https://philosophynow.org/issues/174/News_June_July_2026",
+      "summary": "俄罗斯警方突袭莫斯科哲学研究所，引发学术自由担忧。"
+    },
+    {
+      "query": "philosophy",
+      "source": "Nature",
+      "title": "Climate intentions vs action gap",
+      "url": "https://www.nature.com/articles/s41586-026-XXXXX",
+      "summary": "Nature研究分析公众气候行动意愿与实际行动之间的差距。"
+    },
+    {
+      "query": "religion",
+      "source": "AP News",
+      "title": "Pope Leo XIV prays at Lampedusa for migrants",
+      "url": "https://apnews.com/article/pope-july-4-immigration-migrants-lampedusa",
+      "summary": "教皇利奥十四世在兰佩杜萨公墓为移民遇难者祈祷。"
+    },
+    {
+      "query": "religion",
+      "source": "Religion News",
+      "title": "Pope: migrant crisis is a wound on humanity",
+      "url": "https://religionnews.com/2026/07/04/pope-lampedusa-migrant-crisis/",
+      "summary": "教皇呼吁欧洲正视移民危机，称其为人间之伤。"
+    },
+    {
+      "query": "religion",
+      "source": "Reuters",
+      "title": "Saudi deputy minister at Khamenei funeral",
+      "url": "https://www.reuters.com/world/middle-east/saudi-deputy-foreign-minister-attends-khamenei-funeral-2026-07-05/",
+      "summary": "沙特副外长出席哈梅内伊葬礼，显示中东外交关系变化。"
+    },
+    {
+      "query": "religion",
+      "source": "The National",
+      "title": "Pakistan PM in Tehran for funeral",
+      "url": "https://www.thenationalnews.com/news/mena/2026/07/05/live-khamenei-funeral-iran-us-war/",
+      "summary": "巴基斯坦总理赴德黑兰参加哈梅内伊葬礼。"
+    }
   ]
 }
