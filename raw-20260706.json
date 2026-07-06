@@ -1,0 +1,88 @@
+{
+  "date": "2026-07-06",
+  "queries": [
+    "world news today July 6 2026",
+    "breaking news today international",
+    "China news today July 2026",
+    "technology AI news this week",
+    "开源 新闻 2026年7月"
+  ],
+  "sources": [
+    "新浪新闻",
+    "AP News",
+    "OSCHINA",
+    "ChinaXiv"
+  ],
+  "results": [
+    {
+      "query": "world news today July 6 2026",
+      "source": "AP News",
+      "title": "Iran holds funeral for slain Supreme Leader Ayatollah Ali Khamenei",
+      "url": "https://apnews.com/article/iran-khamenei-funeral",
+      "summary": "Mass funeral in Tehran for Khamenei and family members killed in attack. New Supreme Leader Mojtaba Khamenei appears at ceremonies."
+    },
+    {
+      "query": "world news today July 6 2026",
+      "source": "AP News",
+      "title": "EU court rejects Google's final appeal against €4.1B antitrust fine",
+      "url": "https://apnews.com/article/eu-google-antitrust-android",
+      "summary": "European Court of Justice dismisses Google's appeal, ending 8-year legal battle over Android bundling."
+    },
+    {
+      "query": "technology AI news this week",
+      "source": "OSCHINA",
+      "title": "阿里巴巴内部禁用Claude",
+      "url": "https://www.oschina.net/news/471475",
+      "summary": "阿里巴巴要求全员卸载Anthropic产品，包括Sonnet、Opus、Claude Code等，禁令7月10日生效。"
+    },
+    {
+      "query": "technology AI news this week",
+      "source": "OSCHINA",
+      "title": "尤雨溪发布Vite+ Beta",
+      "url": "https://www.oschina.net/news/471474/vite-plus-beta",
+      "summary": "基于Vite 8的统一前端工具链，整合开发服务器、测试、构建、检查、打包和任务运行。"
+    },
+    {
+      "query": "technology AI news this week",
+      "source": "OSCHINA",
+      "title": "Podman v6.0.0 正式发布",
+      "url": "https://www.oschina.net/news/471473/podman-v6-0-0",
+      "summary": "网络基础设施全面换代，告别slirp4netns和iptables。"
+    },
+    {
+      "query": "technology AI news this week",
+      "source": "OSCHINA",
+      "title": "CNCF 孵化 HAMi 项目",
+      "url": "https://www.oschina.net/news/471486",
+      "summary": "GPU虚拟化与共享调度项目从Sandbox晋升Incubation，TOC全票通过。"
+    },
+    {
+      "query": "China news today July 2026",
+      "source": "新浪财经",
+      "title": "华为发布"韬定律"V2版",
+      "url": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkki1790380.shtml",
+      "summary": "麒麟2026芯片晶体管密度达238MTr/mm²，主频3.1GHz，功耗降低41%。EDA工具链是最大增量机遇。"
+    },
+    {
+      "query": "China news today July 2026",
+      "source": "新浪新闻",
+      "title": "地球磁场连续24小时发生磁暴",
+      "url": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkkf8855796.shtml",
+      "summary": "太阳活动区先后爆发X1.1级和X1.3级耀斑，北美短波通讯中断。我国未受明显影响。"
+    },
+    {
+      "query": "China news today July 2026",
+      "source": "新浪新闻",
+      "title": "四川绵竹市发生4.5级地震",
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-inifupeq2387444.shtml",
+      "summary": "震源深度20千米。"
+    },
+    {
+      "query": "China news today July 2026",
+      "source": "新浪新闻",
+      "title": "我国成功发射千帆极轨15组卫星",
+      "url": "https://news.sina.com.cn/c/2026-07-05/doc-inifupeu8808535.shtml",
+      "summary": "卫星发射任务成功。"
+    }
+  ]
+}
