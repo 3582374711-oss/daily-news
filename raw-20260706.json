@@ -5,84 +5,53 @@
     "breaking news today international",
     "China news today July 2026",
     "technology AI news this week",
-    "开源 新闻 2026年7月"
+    "开源 新闻 2026年7月",
+    "military defense news July 2026",
+    "culture sports news today"
   ],
   "sources": [
     "新浪新闻",
     "AP News",
-    "OSCHINA",
-    "ChinaXiv"
+    "OSCHINA"
   ],
   "results": [
-    {
-      "query": "world news today July 6 2026",
-      "source": "AP News",
-      "title": "Iran holds funeral for slain Supreme Leader Ayatollah Ali Khamenei",
-      "url": "https://apnews.com/article/iran-khamenei-funeral",
-      "summary": "Mass funeral in Tehran for Khamenei and family members killed in attack. New Supreme Leader Mojtaba Khamenei appears at ceremonies."
-    },
-    {
-      "query": "world news today July 6 2026",
-      "source": "AP News",
-      "title": "EU court rejects Google's final appeal against €4.1B antitrust fine",
-      "url": "https://apnews.com/article/eu-google-antitrust-android",
-      "summary": "European Court of Justice dismisses Google's appeal, ending 8-year legal battle over Android bundling."
-    },
-    {
-      "query": "technology AI news this week",
-      "source": "OSCHINA",
-      "title": "阿里巴巴内部禁用Claude",
-      "url": "https://www.oschina.net/news/471475",
-      "summary": "阿里巴巴要求全员卸载Anthropic产品，包括Sonnet、Opus、Claude Code等，禁令7月10日生效。"
-    },
-    {
-      "query": "technology AI news this week",
-      "source": "OSCHINA",
-      "title": "尤雨溪发布Vite+ Beta",
-      "url": "https://www.oschina.net/news/471474/vite-plus-beta",
-      "summary": "基于Vite 8的统一前端工具链，整合开发服务器、测试、构建、检查、打包和任务运行。"
-    },
-    {
-      "query": "technology AI news this week",
-      "source": "OSCHINA",
-      "title": "Podman v6.0.0 正式发布",
-      "url": "https://www.oschina.net/news/471473/podman-v6-0-0",
-      "summary": "网络基础设施全面换代，告别slirp4netns和iptables。"
-    },
-    {
-      "query": "technology AI news this week",
-      "source": "OSCHINA",
-      "title": "CNCF 孵化 HAMi 项目",
-      "url": "https://www.oschina.net/news/471486",
-      "summary": "GPU虚拟化与共享调度项目从Sandbox晋升Incubation，TOC全票通过。"
-    },
-    {
-      "query": "China news today July 2026",
-      "source": "新浪财经",
-      "title": "华为发布"韬定律"V2版",
-      "url": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkki1790380.shtml",
-      "summary": "麒麟2026芯片晶体管密度达238MTr/mm²，主频3.1GHz，功耗降低41%。EDA工具链是最大增量机遇。"
-    },
-    {
-      "query": "China news today July 2026",
-      "source": "新浪新闻",
-      "title": "地球磁场连续24小时发生磁暴",
-      "url": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkkf8855796.shtml",
-      "summary": "太阳活动区先后爆发X1.1级和X1.3级耀斑，北美短波通讯中断。我国未受明显影响。"
-    },
-    {
-      "query": "China news today July 2026",
-      "source": "新浪新闻",
-      "title": "四川绵竹市发生4.5级地震",
-      "url": "https://news.sina.com.cn/c/2026-07-05/doc-inifupeq2387444.shtml",
-      "summary": "震源深度20千米。"
-    },
-    {
-      "query": "China news today July 2026",
-      "source": "新浪新闻",
-      "title": "我国成功发射千帆极轨15组卫星",
-      "url": "https://news.sina.com.cn/c/2026-07-05/doc-inifupeu8808535.shtml",
-      "summary": "卫星发射任务成功。"
-    }
+    {"query":"world news","source":"新浪","title":"伊朗最高领袖任命埃杰伊继续担任司法总监","url":"https://news.sina.com.cn/w/2026-07-06/doc-inifutnp9085492.shtml","summary":"伊朗最高领袖穆杰塔巴·哈梅内伊发布任免令，再次任命穆赫辛尼·埃杰伊为伊朗司法总监。"},
+    {"query":"world news","source":"新浪","title":"伊朗民众送别哈梅内伊：高喊反美反以口号","url":"https://news.sina.com.cn/w/2026-07-06/doc-inifvkki1776736.shtml","summary":"伊朗为遇袭身亡的最高领袖哈梅内伊举行数日国葬，民众高喊反美反以口号。"},
+    {"query":"world news","source":"新浪","title":"特朗普：内塔尼亚胡请求在白宫与我会面","url":"https://news.sina.com.cn/w/2026-07-06/doc-inifvkke2033213.shtml","summary":"特朗普证实内塔尼亚胡请求在白宫会面，称内塔尼亚胡知道\"谁是老大\"。"},
+    {"query":"world news","source":"新浪","title":"委内瑞拉地震死亡人数升至3342人","url":"https://news.sina.com.cn/w/2026-07-06/doc-inifvean8630880.shtml","summary":"委内瑞拉地震死亡人数升至3342人，受伤16740人，17345人流离失所。"},
+    {"query":"world news","source":"新浪","title":"法国一博物馆约20件珠宝被盗","url":"https://news.sina.com.cn/w/2026-07-06/doc-inifuxum8973485.shtml","summary":"法国东部莱俪博物馆遭盗窃，约20件珠宝被盗，损失或达数百万欧元。"},
+    {"query":"world news","source":"新浪","title":"法国南部山火持续蔓延 约1万人被要求撤离","url":"https://news.sina.com.cn/w/2026-07-06/doc-inifuxuk2203045.shtml","summary":"法国东比利牛斯省山火过火面积约1650公顷，约1万人撤离。"},
+    {"query":"world news","source":"新浪","title":"以军称已全面控制黎巴嫩南部博福特岭","url":"https://news.sina.com.cn/w/2026-07-06/doc-inifutnn2291137.shtml","summary":"以军总参谋长扎米尔称已全面控制博福特岭地面及地下隧道网络。"},
+    {"query":"world news","source":"新浪","title":"美军暂停搜寻阿拉伯海直升机事故失踪士兵","url":"https://news.sina.com.cn/w/2026-07-06/doc-inifutnn2270367.shtml","summary":"美军暂停对MH-60S直升机迫降失踪士兵的搜寻，搜救持续102小时。"},
+    {"query":"world news","source":"新浪","title":"霍尔木兹海峡通航仅70艘/72小时","url":"https://news.sina.com.cn/w/2026-07-05/doc-inifupet2022549.shtml","summary":"美方护航通过霍尔木兹海峡的商船仅70艘，远低于冲突前日均138艘。"},
+    {"query":"world news","source":"AP","title":"Iran holds funeral for slain Supreme Leader","url":"https://apnews.com/article/iran-khamenei-funeral","summary":"Mass funeral in Tehran for Ayatollah Ali Khamenei; Mojtaba Khamenei named new Supreme Leader."},
+    {"query":"world news","source":"AP","title":"EU court rejects Google final appeal against €4.1B fine","url":"https://apnews.com/article/eu-google-antitrust-android","summary":"European Court of Justice dismisses Google's appeal, ending 8-year legal battle."},
+    {"query":"world news","source":"新浪","title":"内塔尼亚胡否认与特朗普存在裂痕","url":"https://finance.sina.com.cn/roll/2026-07-06/doc-inifvqsh8561432.shtml","summary":"内塔尼亚胡称以色列在国际上拥有\"许多朋友\"，尤其是\"14亿人口小国印度\"。"},
+    {"query":"China news","source":"新浪","title":"华为\"韬定律\"V2版发布","url":"https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkki1790380.shtml","summary":"何庭波发布韬定律V2版论文，麒麟2026芯片晶体管密度238MTr/mm²。"},
+    {"query":"China news","source":"新浪","title":"我国多领域发布亮眼成绩单","url":"https://news.sina.com.cn/c/2026-07-06/doc-inifvkki1782541.shtml","summary":"向新向优，我国多领域发布亮眼成绩单。"},
+    {"query":"China news","source":"新浪","title":"地球磁场连续24小时磁暴","url":"https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkkf8855796.shtml","summary":"太阳耀斑致地球磁场连续24小时磁暴，北美短波通讯一度中断。"},
+    {"query":"China news","source":"新浪","title":"四川绵竹发生4.5级地震","url":"https://news.sina.com.cn/c/2026-07-05/doc-inifupeq2387444.shtml","summary":"四川绵竹4.5级地震，震源深度20千米。"},
+    {"query":"China news","source":"新浪","title":"我国成功发射千帆极轨15组卫星","url":"https://news.sina.com.cn/c/2026-07-05/doc-inifupeu8808535.shtml","summary":"卫星发射任务成功。"},
+    {"query":"China news","source":"新浪","title":"中俄海上联合-2026联合演习兵力集结完毕","url":"https://news.sina.com.cn/c/2026-07-05/doc-iniftryz9438398.shtml","summary":"中俄海上联合-2026演习兵力集结完毕。"},
+    {"query":"China news","source":"新浪","title":"台风环流北上，国家防总部署防汛防台风","url":"https://news.sina.com.cn/c/2026-07-05/doc-inifuaqx2138763.shtml","summary":"中央气象台六预警齐发，台风环流北上。"},
+    {"query":"China news","source":"新浪","title":"南非副总统：与中国合作非洲收获技术和尊严","url":"https://news.sina.com.cn/c/2026-07-05/doc-iniftwhx9387034.shtml","summary":"南非副总统称与中国合作，非洲收获的是技术和尊严。"},
+    {"query":"China news","source":"新浪","title":"香港市民排队打卡抵港海军军舰","url":"https://news.sina.com.cn/c/2026-07-05/doc-iniftwia8975729.shtml","summary":"香港市民排队打卡抵港海军军舰。"},
+    {"query":"tech","source":"OSCHINA","title":"阿里巴巴内部禁用Claude","url":"https://www.oschina.net/news/471475","summary":"阿里全员被要求卸载Anthropic产品，禁令7月10日生效。"},
+    {"query":"tech","source":"OSCHINA","title":"尤雨溪发布Vite+ Beta","url":"https://www.oschina.net/news/471474/vite-plus-beta","summary":"基于Vite 8的统一前端工具链，整合开发、测试、构建等。"},
+    {"query":"tech","source":"OSCHINA","title":"Podman v6.0.0 正式发布","url":"https://www.oschina.net/news/471473/podman-v6-0-0","summary":"网络基础设施全面换代，告别slirp4netns和iptables。"},
+    {"query":"tech","source":"OSCHINA","title":"CNCF 孵化 HAMi","url":"https://www.oschina.net/news/471486","summary":"GPU虚拟化项目HAMi从Sandbox晋升Incubation，TOC全票通过。"},
+    {"query":"tech","source":"OSCHINA","title":"欧盟驳回Google 41亿欧元反垄断上诉","url":"https://www.oschina.net/news/471475","summary":"八年法律拉锯终结，谷歌Android捆绑案最终败诉。"},
+    {"query":"tech","source":"OSCHINA","title":"IntelliJ IDEA 2026.1.4 发布","url":"https://www.oschina.net/news/471489/intellij-idea-2026-1-4","summary":"修复Docker Compose pull_pol等问题。"},
+    {"query":"tech","source":"OSCHINA","title":"NumPy 2.5.1 发布","url":"https://www.oschina.net/news/471487/numpy-2-5-1-released","summary":"补丁版本，修复datetime Cython API问题。"},
+    {"query":"tech","source":"OSCHINA","title":"Avo 4 正式发布","url":"https://www.oschina.net/news/471488/avo-4","summary":"Ruby on Rails后台框架，15个月开发，约2000个commit。"},
+    {"query":"tech","source":"OSCHINA","title":"DBeaver 26.1.2 发布","url":"https://www.oschina.net/news/471492/dbeaver-26-1-2-released","summary":"新增AI聊天功能，可生成SQL查询语句。"},
+    {"query":"tech","source":"OSCHINA","title":"MateClaw 1.7.0 发布","url":"https://www.oschina.net/news/471491/mateclaw-1-7-0-released","summary":"数字员工、LLM Wiki、工作流、MCP、ACP等一体化。"},
+    {"query":"tech","source":"OSCHINA","title":"Meta卖算力不能片面解读为算力过剩","url":"https://finance.sina.com.cn/jjxw/2026-07-06/doc-inifveam1901202.shtml","summary":"Meta出售算力引发市场讨论。"},
+    {"query":"tech","source":"新浪","title":"多家头部厂商集中下线智能体功能","url":"https://finance.sina.com.cn/stock/relnews/hk/2026-07-06/doc-inifuxup1910397.shtml","summary":"多家头部厂商集中下线AI Agent功能。"},
+    {"query":"sports","source":"新浪","title":"巴西队爆冷出局！内马尔痛哭宣布退出国家队","url":"https://news.sina.com.cn/w/2026-07-06/doc-inifvkke2018514.shtml","summary":"34岁内马尔宣布退出国家队，巴西世界杯出局后当场崩溃落泪。"},
+    {"query":"sports","source":"新浪","title":"英格兰连续3届世界杯进8强","url":"https://news.sina.com.cn/w/2026-07-06/doc-inifvqsh8651177.shtml","summary":"凯恩单届世界杯直接参与7球，打破队史纪录。"},
+    {"query":"sports","source":"新浪","title":"美国队头号射手红牌禁赛暂缓一年执行","url":"https://news.sina.com.cn/w/2026-07-06/doc-inifvkkf8811616.shtml","summary":"特朗普被指施压国际足联，巴洛贡可出战比利时。"},
+    {"query":"sports","source":"新浪","title":"国乒包揽美国大满贯男女双打冠军","url":"https://news.sina.com.cn/c/2026-07-05/doc-iniftrze9040029.shtml","summary":"国乒美国大满贯男女双打冠军，女单4强占三席。"},
+    {"query":"sports","source":"新浪","title":"2026暑期档电影票房破20亿","url":"https://news.sina.com.cn/c/2026-07-05/doc-iniftrze8996072.shtml","summary":"2026年暑期档电影票房突破20亿元。"}
   ]
 }
